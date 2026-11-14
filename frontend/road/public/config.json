@@ -1,0 +1,5 @@
+{
+    "apiUrl": "http://127.0.0.1:8000",
+    "mapCenter": [20.5937, 78.9629],
+    "defaultZoom": 5
+}

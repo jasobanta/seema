@@ -1,0 +1,2810 @@
+UID,NH Number,Chainage_S,Chainage_R,Chainage_P,Entrusted,UPC,Length (KM)
+1,NH-122,Bihar,RO-Patna,PIU-Muzaffarpur,Pending,,2.31
+2,NH-179B,Tamil Nadu,RO-Chennai,PIU-Chennai2,pending,,129.52
+3,NH-19,Uttar Pradesh,RO-Delhi,PIU-CMU Mathura,,,6.65
+4,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.1
+5,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.3
+6,NE-5,Delhi,RO-Delhi,PD-Dwarka,yes,N/08073/01005/HR,15.91
+7,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,no,,0.5
+8,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,no,,0.3
+9,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.8
+10,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.1
+11,NH-316A,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,17.3
+12,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.5
+13,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.4
+14,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.1
+15,NH-205,Punjab,RO-Chandigarh (HR),PIU-Chandigarh,yes,N/08021/01001/PB,1.254392
+16,NH-248S,Maharashtra,-,-,yes,N/07097/01002/MH,31.87
+17,NH-27,Bihar,RO-Patna,PD-Purnea,no,,0.0
+18,NH-316A,Odisha,RO-Bhubaneswar,PIU-Bhubaneshwar,,,0.3
+19,NE-9,Bihar,RO-Patna,PIU-Darbhanga,yes,N/11012/01001/BR,243.71
+20,NH-116A,West Bengal,RO-Kolkata,PIU-Krishnagar,,,0.1
+21,NH-19,Uttar Pradesh,RO-Delhi,PIU-CMU Mathura,,,0.47
+22,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,no,,0.2
+23,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.2
+24,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.1
+25,NH-27,Bihar,RO-Patna,PD-Purnea,,,0.8
+26,NH-31,Uttar Pradesh,RO-UP East,PIU-Azamgarh,,,0.1
+27,NH-48,Rajasthan,RO-Jaipur,PIU-Udaipur,,,0.1
+28,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.1
+29,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.1
+30,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Amravati (AP),no,,1.8
+31,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Amravati (AP),no,,1.1
+32,NH-67,Andhra Pradesh,RO-Vijayawada,PD-Nellore,no,,8.23
+33,NH-752D,Madhya Pradesh,RO-Bhopal,Ratlam,yes,N/09080/01005/MP-RCW,41.42
+34,NH-39,Madhya Pradesh,RO-Bhopal,PIU-Satna,,,0.1
+35,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.1
+36,NH-753L,Madhya Pradesh,RO-Bhopal,PD-Khandwa,,,0.1
+37,NH-316A,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,39.82
+38,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.3
+39,NH-54,Punjab,RO-Chandigarh (PB),PIU-Amritsar,yes,N/04003/02004/PB,6.79
+40,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Amravati (AP),yes,N/08006/02001/AP,0.3
+41,NH-67,Andhra Pradesh,RO-Vijayawada,PD-Nellore,yes,N/07068/01001/AP,0.1
+42,NH-27,Bihar,RO-Patna,PD-Purnea,no,,0.0
+43,NH-316A,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,1.7
+44,NH-48,Tamil Nadu,RO-Chennai,PD-PIU-Kanchipuram,yes,N/13012/01001/TN-RCW,14.55
+45,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.3
+46,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.1
+47,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.3
+48,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Amravati (AP),yes,N/08006/02001/AP,2.2
+49,NH-9,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,8.7
+50,NH-752D,Madhya Pradesh,RO-Bhopal,PD-Ratlam,yes,N/09080/01005/MP-RCW,37.05
+51,NH-753L,Madhya Pradesh,RO-Bhopal,PD-Khandwa,,,2.1
+52,NH-9,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,6.7
+53,NH-9,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.3
+54,NH-27,Assam,RO-Guwahati,PIU-Bongaigaon,yes,N/02026/01004/AS,0.04
+55,NH-9,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,1.34
+56,NH-753L,Madhya Pradesh,RO-Bhopal,PD-Khandwa,,,0.1
+57,NH-9,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.4
+58,NH-49,Odisha,RO-Odisha,EE-NH Division Jharsuguda,,,2.78
+59,NH-143,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.9
+60,NH-27,Assam,RO-Guwahati,PIU-Bongaigaon,,,0.16
+61,NH-49,Odisha,RO-Odisha,EE-NH Division Jharsuguda,,,43.46
+62,NH-55,Odisha,RO-Bhubaneswar,PIU-Dhenkanal,,,0.44
+63,NH-149,Odisha,RO-Odisha,EE-NH Division Pallahara,,,0.1
+64,NH-703,Punjab,RO-Chandigarh,Div. Bathinda-1,,,12.81
+65,NH-344A,Punjab,RO-Chandigarh,PIU-Jalandhar,no,,0.31
+66,NH-44,Punjab,RO-Chandigarh,PIU-Ambala,yes,N/02007/06050/PB,0.31
+67,NH-130CD,Odisha,RO-Bhubaneswar,PIU-Koraput,,,0.1
+68,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,yes,N/03006/01001/AP,0.1
+69,NH-55,Odisha,RO-Bhubaneswar,PIU-Dhenkanal,,,0.3
+70,NH-55,Odisha,RO-Bhubaneswar,PIU-Sambalpur,,,0.1
+71,NH-3,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/09001/01014/PB	,0.05
+72,NH-3,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/09001/01014/PB	,0.03
+73,NH-5,Punjab,RO-Chandigarh,PIU-Chandigarh,yes,N/08078/01001/PB,0.1
+74,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.01
+75,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,3.66
+76,NH-27,Assam,RO-Guwahati,PIU-Haflong,no,,0.1
+77,NH-143,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,2.62
+78,NH-23,Rajasthan,RO-Jaipur,PIU-Dausa,yes,N/09009/02001/RJ,0.1
+79,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,0.67
+80,NH-703,Punjab,RO-Chandigarh,Div. Bathinda-1,no,,3.98
+81,NH-54,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/04003/04002/PB,0.1
+82,NH-344A,Punjab,RO-Chandigarh,PIU-Jalandhar,,,0.0
+83,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,0.1
+84,NH-49,Odisha,RO-Odisha,EE-NH Division Jharsuguda,,,1.71
+85,NH-16,Odisha,RO-Bhubaneswar,PIU-Bhubaneshwar,,,0.29
+86,NE-5A,Punjab,RO-Chandigarh,PIU-Amritsar,,,0.04
+87,NE-5A,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/08059/01007/PB,0.65
+88,NH-925,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,1.77
+89,NH-48,Rajasthan,RO-Jaipur,PIU-Chittorgarh,yes,N/02018/01005/RJ,0.1
+90,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,4.81
+91,NH-48,Rajasthan,RO-Jaipur,PIU-Chittorgarh,yes,N/02001/06001/RJ,0.1
+92,NH-130CD,Odisha,RO-Bhubaneswar,PIU-Koraput,,,0.1
+93,NH-130CD,Odisha,RO-Bhubaneswar,PIU-Koraput,,,0.1
+94,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.1
+95,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.1
+96,NH-25,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.1
+97,NH-911,Rajasthan,RO-Jaipur,PIU-Bikaner,,,1.0
+98,NH-58,Rajasthan,RO-Jaipur,PIU-Jaipur,,,2.0
+99,NH-58,Rajasthan,RO-Jaipur,PIU-Jaipur,,,0.7
+100,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,2.75
+101,NE-4,Rajasthan,RO-Jaipur,PIU-Dausa,yes,N/01001/03006/RJ,0.1
+102,NH-25,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.19
+103,NH-703,Punjab,RO-Chandigarh,Div. Bathinda-1,pending,,35.36
+104,NH-344A,Punjab,RO-Chandigarh,PIU-Jalandhar,no,,0.1
+105,NH-81,Tamil Nadu,RO-Tamilnadu,DE(NH)-Coimbatore,,,2.07
+106,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.4
+107,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,6.3
+108,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,3.5
+109,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,0.59
+110,NH-544H,Tamil Nadu,RO-Chennai,PIU-Coimbatore,,,5.1
+111,NH-136,Tamil Nadu,RO-Tamilnadu,DE(NH)-Trichy,,,1.7
+112,NH-136,Tamil Nadu,RO-Tamilnadu,DE(NH)-Trichy,,,4.29
+113,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,0.86
+114,NH-81,Tamil Nadu,RO-Tamilnadu,DE(NH)-Coimbatore,,,42.63
+115,NH-81,Tamil Nadu,RO-Tamilnadu,DE(NH)-Coimbatore,,,11.52
+116,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.6
+117,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.1
+118,NH-544,Tamil Nadu,RO-Chennai,PIU-Salem,,,0.3
+119,NH-81,Tamil Nadu,RO-Tamilnadu,DE(NH)-Coimbatore,,,5.56
+120,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,7.92
+121,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,3.9
+122,NH-44,Tamil Nadu,RO-Chennai,PIU-Salem,,,0.1
+123,NH-383,Tamil Nadu,RO-Tamilnadu,DE(NH)-Dindigul,,,3.92
+124,NH-948A,Tamil Nadu,RO-Bengaluru,PIU-Bangalore Expressway,no,,2.0
+125,NE-5A,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/08059/01002/PB ,0.14
+126,NH-383,Tamil Nadu,RO-Madurai,PIU-Madurai,,,5.44
+127,NH-383,Tamil Nadu,RO-Tamilnadu,DE(NH)-Dindigul,,,21.98
+128,NH-948A,Tamil Nadu,RO-Bengaluru,PIU-Bangalore Expressway,no,,7.57
+129,NH-65,Telangana,RO-Hyderabad,PIU-Hyderabad,,,0.1
+130,NH-948A,Tamil Nadu,RO-Bengaluru,PIU-Bangalore Expressway,no,,0.1
+131,NH-44,Tamil Nadu,RO-Chennai,PIU-Salem,,,0.06
+132,NH-65,Telangana,RO-Hyderabad,PIU-Hyderabad,,,0.1
+133,NH-44,Tamil Nadu,RO-Chennai,PIU-Krishnagiri,,,0.1
+134,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,1.51
+135,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,4.79
+136,NH-27,Uttar Pradesh,RO-UP West,PIU-Jhansi,,,0.3
+137,NH-27,Uttar Pradesh,RO-UP West,PIU-Jhansi,,,0.2
+138,NH-44,Telangana,RO-Hyderabad,PIU-Mahabubnagar,,,0.07
+139,NH-23,Rajasthan,RO-Jaipur,PIU-Dausa,yes,N/09009/02001/RJ,0.07
+140,NE-4,Rajasthan,RO-Jaipur,PIU-Dausa,yes,N/01001/03006/RJ,0.0
+141,NH-31,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,1.54
+142,NH-19,Uttar Pradesh,RO-UP West,PIU-Kanpur,,,0.0
+143,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,0.06
+144,NH-65,Telangana,RO-Hyderabad,PIU-Hyderabad,,,0.1
+145,NH-31,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,3.19
+146,NH-734,Uttarakhand,RO-Dehradun,PIU-Najibabad,,,4.6
+147,NH-9,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,0.2
+148,NH-734,Uttarakhand,RO-Dehradun,PIU-Najibabad,no,,10.3
+149,NH-19,Uttar Pradesh,RO-UP West,PIU-Kanpur,,,0.1
+150,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.1
+151,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.5
+152,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.2
+153,NH-7,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,11.86
+154,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,5.84
+155,NH-128C,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.12
+156,NH-128C,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,1.83
+157,NH-34,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,0.02
+158,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,1.5
+159,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,3.55
+160,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,0.1
+161,NH-544H,Tamil Nadu,RO-Chennai,PIU-Coimbatore,,,0.01
+162,NH-136,Tamil Nadu,RO-Tamilnadu,DE(NH)-Trichy,,,0.1
+163,NH-48,Tamil Nadu,RO-Chennai,PIU-Kanchipuram,,,0.1
+164,NH-44,Tamil Nadu,RO-Chennai,PIU-Salem,,,0.1
+165,NH-344BG,Uttar Pradesh,RO-Dehradun,PIU-Roorkee,,,0.5
+166,NH-344BG,Uttar Pradesh,RO-Dehradun,PIU-Roorkee,,,0.2
+167,NH-344BG,Uttar Pradesh,RO-Dehradun,PIU-Roorkee,,,0.4
+168,NH-12,West Bengal,RO-Kolkata,PIU-Krishnagar,,,0.01
+169,NH-18,West Bengal,RO-Kolkata,PIU-Purulia,,,1.04
+170,NH-128,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.3
+171,NH-34,Uttar Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,4.98
+172,NH-34,Uttar Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,6.7
+173,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,1.06
+174,NH-48,Tamil Nadu,RO-Chennai,PIU-Kanchipuram,,,0.31
+175,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,5.55
+176,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,no,,2.99
+177,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,0.1
+178,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,0.14
+179,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,0.54
+180,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,6.53
+181,NH-12,West Bengal,RO-Kolkata,PIU-Krishnagar,,,0.826793
+182,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,1.3
+183,NH-344BG,Uttar Pradesh,RO-Dehradun,PIU-Roorkee,,,0.1
+184,NH-18,West Bengal,RO-Kolkata,PIU-Purulia,,,3.45
+185,NH-24,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.2
+186,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,no,,10.67
+187,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,1.24
+188,NH-31,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.01
+189,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.1
+190,NH-344BG,Uttar Pradesh,RO-Dehradun,PIU-Roorkee,,,0.1
+191,NH-18,West Bengal,RO-Kolkata,PIU-Purulia,,,4.87
+192,NH-530,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.3
+193,NH-167,Telangana,RO-Hyderabad,PIU-Mahabubnagar,yes,N/04012/01002/TS,9.9
+194,NH-27,Uttar Pradesh,RO-UP West,PIU-Jhansi,,,2.1
+195,NH-167,Telangana,RO-Hyderabad,PIU-Mahabubnagar,yes,N/04012/01002/TS,3.07
+196,NH-9,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,0.22
+197,NH-151,Gujarat,RO-Gandhinagar,PIU-Rajkot,,,0.1
+198,NH-24,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.04
+199,NH-28,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.2
+200,NH-28,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.3
+201,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,0.64
+202,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,4.8
+203,NH-31,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,1.97
+204,NH-334,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.1
+205,NH-30,Uttar Pradesh,RO-UP East,PIU-Prayagraj,pending,,3.187521
+206,NH-12,West Bengal,RO-Kolkata,PIU-Krishnagar,,,0.1
+207,NH-12,West Bengal,RO-Kolkata,PIU-Malda,,,0.1
+208,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,no,,2.0
+209,NH-530,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.2
+210,NH-18,West Bengal,RO-Kolkata,PIU-Purulia,,,1.78
+211,NH-22,Bihar,RO-Patna,PIU-Gaya,,,0.1
+212,NH-12,West Bengal,RO-Kolkata,PIU-Krishnagar,,,2.57
+213,NH-19,West Bengal,RO-Kolkata,PIU-Durgapur,,,0.1
+214,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,yes,N/06001/02002/TN,0.1
+215,NH-530,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.1
+216,NH-151,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/08063/01003/GJ,0.1
+217,NH-48,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,0.1
+218,NH-48,Gujarat,RO-Gandhinagar,PIU-Surat,,,0.04
+219,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,,,0.1
+220,NH-22,Bihar,RO-Patna,PIU-Gaya,,,1.213293
+221,NH-22,Bihar,RO-Patna,PIU-Gaya,,,1.5
+222,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,3.44
+223,NH-65,Andhra Pradesh,RO-Vijayawada,PIU-Vijayawada,no,,1.23
+224,NH-33,Bihar,RO-Bihar,NH Division Bhagalpur,,,9.4
+225,NH-227A,Bihar,RO-Patna,PIU-Motihari,,,15.04
+226,NH-53,Chhattisgarh,RO-Raipur,PIU-Raipur-I,,,0.1
+227,NH-53,Chhattisgarh,RO-Raipur,PIU-Raipur-I,,,0.5
+228,NH-167,Telangana,RO-Hyderabad,PIU-Mahabubnagar,,,0.01
+229,NH-167,Telangana,RO-Hyderabad,PIU-Mahabubnagar,yes,N/04012/01002/TS,10.77
+230,NH-53,Chhattisgarh,RO-Raipur,PIU-Raipur-I,,,0.0
+231,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,,,0.1
+232,NH-48,Karnataka,RO-Bengaluru,PIU-Bangalore,no,,6.78
+233,NH-32,Puducherry,RO-Madurai,PIU-Ramanathapuram,,,12.01
+234,NH-48,Gujarat,RO-Gandhinagar,PIU-Surat,yes,N/09107/01005/GJ,0.12
+235,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,,,2.39
+236,NH-44,Haryana,RO-Delhi,CMU-Mathura,yes,,0.1
+237,NH-334D,Haryana,RO-UP West,PIU-Aligarh,,,7.38
+238,NH-48,Karnataka,RO-Bengaluru,PIU-Bangalore,no,,8.76
+239,NH-75,Karnataka,RO-Karnataka,EE NH Bengaluru,no,,2.84504
+240,NH-32,Puducherry,RO-Madurai,PIU-Ramanathapuram,,,9.14
+241,NH-703,Punjab,RO-Chandigarh,PIU-Jalandhar,yes,N/03008/02004/PB,0.11
+242,NH-703,Punjab,RO-Chandigarh,PIU-Jalandhar,,,0.01
+243,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,0.8
+244,NH-754A,Rajasthan,RO-Jaipur,PIU-Jodhpur,no,,2.8
+245,NH-32,Tamil Nadu,RO-Madurai,PIU-Ramanathapuram,,,2.11
+246,NH-365BB,Telangana,RO-Hyderabad,NH Division Khammam,,,17.36
+247,NH-365BB,Telangana,RO-Hyderabad,NH Division Khammam,,,0.78
+248,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,0.1
+249,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,2.3
+250,NE-4,Rajasthan,RO-Jaipur,PIU-Dausa,no,,0.63
+251,NH-754A,Rajasthan,RO-Jaipur,PIU-Jodhpur,yes,N/08051/13002/GJ,0.1
+252,NH-52,Rajasthan,RO-Jaipur,PIU-Kota,no,,1.11
+253,NH-365BB,Telangana,RO-Hyderabad,NH Division Khammam,,,3.21
+254,NH-27,Assam,RO-Guwahati,PIU-Guwahati,no,,0.5
+255,NH-128C,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,1.63
+256,NH-75,Karnataka,RO-Karnataka,EE NH Bengaluru,no,,17.01
+257,NH-703,Punjab,RO-Chandigarh,PIU-Jalandhar,yes,N/05031/01005/PB,0.2
+258,NH-65,Andhra Pradesh,RO-Vijayawada,PIU-Vijayawada,no,,4.13
+259,NH-227A,Bihar,RO-Patna,PIU-Motihari,,,15.31
+260,NH-48,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,0.44
+261,NH-128C,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,2.25
+262,NH-30,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.1
+263,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.8
+264,NH-530B,Uttar Pradesh,RO-UP West,PIU-Agra,,,2.7
+265,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.14
+266,NH-216,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,yes,N/08006/06001/AP,0.14
+267,NH-71,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Kadapa,no,,1.88
+268,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,0.1
+269,NH-754A,Rajasthan,RO-Jaipur,PIU-Jodhpur,no,,2.7
+270,NE-4,Rajasthan,RO-Jaipur,PIU-Dausa,yes,N/01001/03004/RJ,0.1
+271,NH-27,Assam,RO-Guwahati,PIU-Guwahati,yes,N/02027/05010/AS,0.1
+272,NH-27,Assam,RO-Guwahati,PIU-Guwahati,yes,N/02027/05010/AS,0.1
+273,NH-32,Tamil Nadu,RO-Madurai,PIU-Ramanathapuram,no,,11.109514
+274,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Srinagar,,,0.13
+275,NH-75,Karnataka,RO-Karnataka,EE NH Bengaluru,no,,1.5
+276,NH-161,Maharashtra,RO-Nagpur,PIU-Washim,yes,N/04014/04001/MH,0.1
+277,NH-703,Punjab,RO-Chandigarh,PIU-Jalandhar,yes,N/05031/01005/PB,0.1
+278,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,0.36
+279,NH-365BB,Telangana,RO-Hyderabad,NH Division Khammam,,,3.57
+280,NH-365BB,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.01
+281,NH-365BB,Telangana,RO-Hyderabad,NH Division Khammam,,,1.91
+282,NH-128C,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.48
+283,NH-530B,Uttar Pradesh,RO-UP West,PIU-Agra,,,6.65
+284,NH-530B,Uttar Pradesh,RO-UP West,PIU-Agra,,,3.1
+285,NH-530B,Uttar Pradesh,RO-UP West,PIU-Agra,,,6.1
+286,NH-31,Bihar,RO-Patna,PIU-Chhapra,no,,0.2
+287,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,2.3
+288,NH-71,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Kadapa,no,,21.33
+289,NE-4,Rajasthan,RO-Delhi,PIU-Sohna,,,0.398734
+290,NH-754A,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.2
+291,NH-52,Rajasthan,RO-Jaipur,PIU-Kota,no,,25.24
+292,NH-30,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,2.3
+293,NH-30,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,2.5
+294,NH-33,Bihar,RO-Bihar,"NH Division No. 2, Biharsharif",,,0.1
+295,NH-31,Bihar,RO-Patna,PIU-Chhapra,no,,3.1
+296,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,7.69
+297,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,no,,2.9
+298,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,no,,5.7
+299,NH-731,Uttar Pradesh,RO-UP West,PIU-Bareilly,,,3.59
+300,NH-334C,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,9.8
+301,NH-530B,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.3
+302,NH-530B,Uttar Pradesh,RO-UP West,PIU-Agra,,,4.56
+303,NH-530B,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.9
+304,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,1.06
+305,NH-34,Uttar Pradesh,RO-UP West,PIU-Kannauj,,,11.77
+306,NH-216,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,yes,N/08006/06001/AP,0.1
+307,NH-33,Bihar,RO-Bihar,"NH Division No. 2, Biharsharif",,,0.2
+308,NH-71,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Kadapa,no,,0.69
+309,NH-163G,Andhra Pradesh,RO-Hyderabad,PIU-Khammam,,,0.1
+310,NH-149B,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,11.58
+311,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,no,,1.32
+312,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,8.0
+313,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,1.1
+314,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.7
+315,NH-48,Gujarat,RO-Gandhinagar,PIU-Palanpur,,,0.1
+316,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,,,0.1
+317,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.996653
+318,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,no,,0.09
+319,NH-151A,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,2.9
+320,NH-151A,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,33.24
+321,NH-527C,Bihar,RO-Patna,PIU-Darbhanga,,,0.1
+322,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,13.96
+323,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,23.99
+324,NH-151A,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,1.79
+325,NH-149B,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,3.5
+326,NH-344M,Delhi,RO-Delhi,PIU-Dwarka,yes,N/02001/19003/DL,0.1
+327,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.1
+328,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.5
+329,NH-351F,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,2.53
+330,NH-48,Gujarat,RO-Gandhinagar,PIU-Palanpur,no,,10.56
+331,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,no,,0.15
+332,NH-149B,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,14.66
+333,NH-351F,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,2.29
+334,NH-351F,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,2.81
+335,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,yes,N/08051/01002/GJ,12.16
+336,NH-151A,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,31.32
+337,NH-151A,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,6.09
+338,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,yes,N/08051/02001/Gj,2.52
+339,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,0.1
+340,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,9.0
+341,NH-334B,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.27
+342,NH-334B,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.0
+343,NH-352A,Haryana,RO-Chandigarh,PIU-Sonipat,,,1.61
+344,NH-352A,Haryana,RO-Chandigarh,PIU-Sonipat,,,2.37
+345,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.8
+346,NH-351F,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,0.1
+347,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,yes,N/08051/01002/GJ,0.4
+348,NH-151A,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,6.03
+349,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,,,0.928048
+350,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,,,0.1
+351,NH-56,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,6.15
+352,NH-147D,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,24.76
+353,NH-148NA,Haryana,RO-Delhi,CMU-Mathura,,,0.1
+354,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.86
+355,NH-43,Jharkhand,RO-Ranchi,PIU-Ranchi,no,,22.41
+356,NH-161A,Karnataka,RO-Bengaluru,PIU-Gulbarga,,,5.6
+357,Nh-150C,Karnataka,RO-Bengaluru,PIU-Gulbarga,no,,0.13
+358,NH-275,Karnataka,RO-Karnataka,EE NH Bengaluru,,,0.683794
+359,NH-275,Karnataka,RO-Karnataka,EE NH Bengaluru,,,0.1
+360,NH-147D,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,0.6
+361,NH-48,Gujarat,RO-Gandhinagar,PIU-Palanpur,no,,2.76
+362,NE-4,Gujarat,RO-Gandhinagar,PIU-Surat,pending,,0.06
+363,NE-4,Gujarat,RO-Gandhinagar,PIU-Surat,yes,N/01001/11003/GJ,0.1
+364,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.561514
+365,NH-709,Haryana,RO-Chandigarh,PIU-Sonipat,,,1.27
+366,NH-352A,Haryana,RO-Chandigarh,PIU-Sonipat,,,3.69
+367,NE-5,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.1
+368,NH-709A,Haryana,RO-Chandigarh,PIU-Sonipat,,,1.69
+369,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,1.1
+370,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.6
+371,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.1
+372,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,no,,14.23
+373,NH-75,Karnataka,RO-Bengaluru,PIU-Bangalore,,,0.1
+374,NH-367A,Karnataka,RO-Bengaluru,PIU-Hospet,no,,22.69
+375,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,yes,,45.8
+376,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,25.24
+377,NH-709,Haryana,RO-Chandigarh,PIU-Sonipat,,,4.5
+378,NH-152A,Haryana,RO-Chandigarh,PIU-Ambala,no,,21.43
+379,NH-709A,Haryana,RO-Chandigarh,PIU-Sonipat,,,1.17
+380,NH-154,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,10.93
+381,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,3.36
+382,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,30.59
+383,NH-43,Jharkhand,RO-Ranchi,PIU-Ranchi,no,,25.49
+384,Nh-150C,Karnataka,RO-Bengaluru,PIU-Gulbarga,no,,0.1
+385,Nh-150C,Karnataka,RO-Bengaluru,PIU-Gulbarga,no,,0.1
+386,NH-166,Maharashtra,RO-Mumbai,PIU-Kolhapur,,,0.01
+387,NH-848,Maharashtra,RO-Mumbai,PIU-Nashik,,,2.15
+388,NH-60,Maharashtra,RO-Mumbai,PIU-Pune,no,,3.8
+389,NH-150C,Maharashtra,RO-Bengaluru,PIU-Gulbarga,no,,2.7
+390,NH-753BE,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,30.67
+391,NH-118,Jharkhand,RO-Ranchi,PIU-Jamshedpur,no,,11.34
+392,NH-118,Jharkhand,RO-Ranchi,PIU-Jamshedpur,no,,6.72
+393,Nh-150C,Karnataka,RO-Bengaluru,PIU-Gulbarga,no,,0.2
+394,NH-44,Karnataka,RO-Bengaluru,PIU-Bangalore,no,,3.84
+395,NH-275,Karnataka,RO-Karnataka,EE NH Bengaluru,,,0.8
+396,NH-275,Karnataka,RO-Karnataka,EE NH Bengaluru,,,0.1
+397,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,8.03
+398,NH-56,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,3.55
+399,NH-147D,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,4.57
+400,NH-754A,Gujarat,RO-Gandhinagar,PIU-Palanpur,yes,N/04003/13003/GJ,0.1
+401,NH-754A,Gujarat,RO-Gandhinagar,PIU-Palanpur,no,,1.02
+402,NH-135BG,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,2.38
+403,NH-503A,Punjab,RO-Chandigarh,PIU-Jalandhar,no,,2.4
+404,NH-7,Punjab,RO-Chandigarh,Div. Abohar,no,,14.12
+405,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,no,,0.69
+406,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,no,,5.61
+407,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,2.74
+408,NH-334B,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.1
+409,NH-352A,Haryana,RO-Chandigarh,PIU-Sonipat,,,3.5
+410,NH-352A,Haryana,RO-Chandigarh,PIU-Sonipat,,,1.26
+411,NH-152A,Haryana,RO-Chandigarh,PIU-Ambala,no,,4.9
+412,NH-275,Karnataka,RO-Karnataka,EE NH Bengaluru,,,0.5
+413,NH-275,Karnataka,RO-Karnataka,EE NH Bengaluru,,,26.95
+414,NH-948,Karnataka,RO-Bengaluru,PIU-Mysuru,yes,N/08014/03001/KA,0.1
+415,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,31.03
+416,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.91
+417,NH-21,Rajasthan,RO-Jaipur,PIU-Dausa,,,5.86
+418,NH-168,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,2.76
+419,NH-154,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,7.81
+420,NH-18,Jharkhand,RO-Ranchi,PIU-Dhanbad,no,,2.19
+421,NH-18,Jharkhand,RO-Ranchi,PIU-Dhanbad,no,,11.01
+422,NH-161A,Karnataka,RO-Bengaluru,PIU-Gulbarga,no,,2.08
+423,NH-44,Karnataka,RO-Bengaluru,PIU-Bangalore,no,,8.76
+424,NH-367A,Karnataka,RO-Bengaluru,PIU-Hospet,no,,4.77
+425,NH-73,Karnataka,RO-Bengaluru,PIU-Tumakuru,no,,6.78
+426,NH-43,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,14.51
+427,NH-753AB,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,3.12
+428,NH-65,Maharashtra,RO-Mumbai,PIU-Pune,no,,5.18
+429,NH-547,Madhya Pradesh,RO-Jabalpur,PIU-Chhindwara,,,0.2
+430,NH-43,Madhya Pradesh,RO-Madhya Pradesh,NH Division Rewa,,,40.21
+431,NE-4,Madhya Pradesh,RO-Gandhinagar,PIU-Godhra,,,0.1
+432,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,0.0
+433,NH-753BE,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,0.1
+434,NH-166,Maharashtra,RO-Mumbai,PIU-Kolhapur,,,0.0
+435,NH-132B,Tamil Nadu,RO-Chennai,PIU-Kanchipuram,,,10.43
+436,NH-744A,Tamil Nadu,RO-Madurai,PIU-Madurai,pending,,13.24
+437,NH-333B,Bihar,RO-Patna,PIU-Munger,,,1.84
+438,NH-844,Tamil Nadu,RO-Chennai,PIU-Krishnagiri,,,4.55
+439,NH-365BB,Telangana,RO-Hyderabad,PIU-Warangal,,,3.67
+440,NH-365BB,Telangana,RO-Hyderabad,PIU-Warangal,,,1.13
+441,NH-333B,Bihar,RO-Patna,PIU-Munger,,,0.2
+442,NH-65,Maharashtra,RO-Mumbai,PIU-Pune,no,,2.69
+443,NH-166,Maharashtra,RO-Mumbai,PIU-Kolhapur,yes,N/08011/05003/MH,14.4
+444,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,0.1
+445,NH-150,Maharashtra,RO-Mumbai,PIU-Solapur,,,2.45
+446,NH-503A,Punjab,RO-Chandigarh,PIU-Jalandhar,no,,1.42
+447,NH-73,Karnataka,RO-Bengaluru,PIU-Tumakuru,no,,3.4
+448,NH-948,Karnataka,RO-Bengaluru,PIU-Mysuru,yes,N/08014/03001/KA,0.1
+449,NH-135BG,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,72.65
+450,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,3.73
+451,NH-150C,Maharashtra,RO-Bengaluru,PIU-Gulbarga,,,0.01
+452,NH-150,Maharashtra,RO-Mumbai,PIU-Solapur,,,0.1
+453,NH-703,Punjab,RO-Chandigarh,PIU-Jalandhar,yes,N/03008/02004/PB,0.1
+454,NE-5,Punjab,RO-Chandigarh,PIU-Ludhiana Expressway,,,0.01
+455,NH-5,Punjab,RO-Chandigarh,PIU-Ludhiana,no,,14.76
+456,NH-5,Punjab,RO-Chandigarh,PIU-Ludhiana,no,,5.49
+457,NH-52,Rajasthan,RO-Jaipur,PIU-Jaipur,,,6.26
+458,NH-52,Rajasthan,RO-Jaipur,PIU-Kota,no,,11.36
+459,NH-52,Rajasthan,RO-Jaipur,PIU-Kota,no,,1.06
+460,NH-52,Rajasthan,RO-Jaipur,PIU-Kota,no,,2.46
+461,NH-753AB,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,5.8
+462,NH-65,Maharashtra,RO-Mumbai,PIU-Pune,no,,1.28
+463,NH-848,Maharashtra,RO-Mumbai,PIU-Nashik,,,3.86
+464,NH-848,Maharashtra,RO-Mumbai,PIU-Nashik,,,11.9
+465,NH-60,Maharashtra,RO-Mumbai,PIU-Pune,no,,2.27
+466,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,2.94
+467,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,46.56
+468,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,2.14
+469,NH-54,Punjab,RO-Chandigarh,PIU-Amritsar,no,,21.81
+470,NH-54,Punjab,RO-Chandigarh,PIU-Amritsar,no,,2.12
+471,NE-4,Rajasthan,RO-Jaipur,PIU-Sawai Madhopur,,,0.3
+472,NH-25,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,54.24
+473,NH-21,Rajasthan,RO-Jaipur,PIU-Dausa,,,6.45
+474,NH-132B,Tamil Nadu,RO-Chennai,PIU-Kanchipuram,,,5.3
+475,NH-132B,Tamil Nadu,RO-Chennai,PIU-Kanchipuram,,,13.79
+476,NH-744A,Tamil Nadu,RO-Madurai,PIU-Madurai,pending,,2.08
+477,NH-722,Bihar,RO-Patna,PIU-Chhapra,,,0.02
+478,NH-744A,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,0.1
+479,NH-52,Rajasthan,RO-Jaipur,PIU-Jaipur,,,2.27
+480,NH-52,Rajasthan,RO-Jaipur,PIU-Kota,no,,7.63
+481,NH-136B,Tamil Nadu,RO-Chennai,PIU-Puducherry,,,17.53
+482,NH-32,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,3.84
+483,NH-332,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,1.48
+484,NH-744A,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,0.13
+485,NH-716,Tamil Nadu,RO-Chennai,PIU-Chennai2,,,11.23
+486,NH-716,Tamil Nadu,RO-Chennai,PIU-Chennai2,,,3.38
+487,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,6.5
+488,NH-32,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,4.85
+489,NH-844,Tamil Nadu,RO-Chennai,PIU-Krishnagiri,,,0.07
+490,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,15.79
+491,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,7.1
+492,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,1.3
+493,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.1
+494,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,2.5
+495,NH-365BB,Telangana,RO-Hyderabad,PIU-Warangal,,,2.37
+496,NH-163G,Telangana,RO-Hyderabad,PIU-Warangal,,,0.03
+497,NH-163G,Telangana,RO-Hyderabad,PIU-Warangal,,,0.1
+498,NH-163G,Telangana,RO-Hyderabad,PIU-Warangal,,,0.86
+499,NH-163G,Telangana,RO-Hyderabad,PIU-Warangal,,,0.0
+500,NH-32,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,5.21
+501,NH-844,Tamil Nadu,RO-Chennai,PIU-Krishnagiri,,,1.2
+502,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,8.35
+503,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,12.71
+504,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.73
+505,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.2
+506,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,0.07
+507,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,0.26
+508,NH-150C,Maharashtra,RO-Bengaluru,PIU-Gulbarga,no,,18.21
+509,NH-150C,Maharashtra,RO-Bengaluru,PIU-Gulbarga,,,0.0
+510,NH-150C,Maharashtra,RO-Bengaluru,PIU-Gulbarga,no,,0.78
+511,NH-150,Maharashtra,RO-Mumbai,PIU-Solapur,,,0.01
+512,NH-365BB,Telangana,RO-Hyderabad,NH Division Khammam,,,3.27
+513,NH-163G,Telangana,RO-Hyderabad,PIU-Warangal,,,0.1
+514,NH-30,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,3.26
+515,NH-30,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,2.04
+516,NH-30,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,4.18
+517,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,0.28
+518,NH-128,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.05
+519,NH-128,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.0
+520,NH-709A,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,1.15
+521,NE-4,Rajasthan,RO-Jaipur,PIU-Sawai Madhopur,yes,N/01001/03014/RJ,0.12
+522,NE-4,Rajasthan,RO-Jaipur,PIU-Sawai Madhopur,yes,N/01001/03014/RJ,0.1
+523,NH-758,Rajasthan,RO-Jaipur,PIU-Chittorgarh,no,,7.87
+524,NH-758,Rajasthan,RO-Jaipur,PIU-Chittorgarh,no,,9.11
+525,NH-25,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,2.63
+526,NH-168,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,71.27
+527,NH-136B,Tamil Nadu,RO-Chennai,PIU-Puducherry,,,0.8
+528,NH-136B,Tamil Nadu,RO-Chennai,PIU-Puducherry,,,38.34
+529,NH-344BG,Uttar Pradesh,RO-Dehradun,PIU-Roorkee,,,0.1
+530,NH-35,Uttar Pradesh,RO-UP East,PIU-Prayagraj,,,1.6
+531,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,no,,1.46
+532,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,no,,3.2
+533,NH-116A,West Bengal,RO-Kolkata,PIU-Bardhaman,,,0.6
+534,NH-38,Tamil Nadu,RO-Madurai,PIU-Tuticorin,,,0.3
+535,NH-332,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,7.29
+536,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,3.71
+537,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,0.0
+538,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.5
+539,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.3
+540,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,1.49
+541,NH-116A,West Bengal,RO-Kolkata,PIU-Bardhaman,,,0.03
+542,NH-205AG,Punjab,RO-Chandigarh,PIU-Chandigarh,,,0.1
+543,NH-244A,Jammu and Kashmir,RO-Jammu,PIU-Jammu,yes,N/02007/01001/JK,0.01
+544,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,yes,N/04041/03002/AP,0.1
+545,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,yes,N/04041/02002/AP,0.01
+546,NH-205AG,Punjab,RO-Chandigarh,PIU-Chandigarh,,,0.1
+547,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,yes,N/04041/02002/AP,0.24
+548,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.6
+549,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.12
+550,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.12
+551,NH-319B,Jharkhand,RO-Ranchi,PIU-Ramgarh,yes,N/04044/04005/JH,0.2
+552,NH-163G,Telangana,RO-Hyderabad,PIU-Warangal,,,0.1
+553,NH-163G,Telangana,RO-Hyderabad,PIU-Warangal,,,0.1
+554,Srinagar Ring Road,Jammu and Kashmir,RO-Jammu,PIU-Srinagar,no,,11.31
+555,NH-383,Tamil Nadu,RO-Tamilnadu,DE(NH)-Madurai,,,3.24
+556,NH-948,Karnataka,RO-Karnataka,EE NH Bengaluru,yes,N/08014/03001/KA,0.1
+557,NH-7,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,26.69
+558,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,0.1
+559,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,2.07
+560,NH-709A,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,1.41
+561,NH-319B,West Bengal,RO-Kolkata,PIU-Purulia,,,0.1
+562,NH-319B,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,0.16
+563,NH-275,Karnataka,RO-Bengaluru,PIU-Mysuru,yes,N/04031/02001/KA,0.1
+564,NH-231,Bihar,RO-Patna,PIU-Begusarai,,,0.0
+565,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,0.1
+566,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,0.468506
+567,NH-128B,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,27.13
+568,NH-128B,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,11.61
+569,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Srinagar,,,1.02
+570,NH-30,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,21.04
+571,NH-5,Punjab,RO-Chandigarh,PIU-Ludhiana,pending,,0.8
+572,NH-31,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,0.1
+573,NH-21,Uttar Pradesh,RO-UP West,PIU-Badaun,,,0.81
+574,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,9.27
+575,NH-35,Uttar Pradesh,RO-UP East,PIU-Prayagraj,,,1.1
+576,NH-116A,West Bengal,RO-Kolkata,PIU-Bardhaman,,,0.1
+577,NH-275,Karnataka,RO-Bengaluru,PIU-Mysuru,yes,N/04031/01001/KA,0.1
+578,NH-66,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,7.32
+579,NH-31,Bihar,RO-Patna,PIU-Chhapra,no,,0.22
+580,NH-140,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,0.04
+581,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,29.0
+582,NH-231,Bihar,RO-Patna,PIU-Begusarai,,,0.53
+583,NH-231,Bihar,RO-Patna,PIU-Begusarai,yes,N/08052/01001/BR,1.33
+584,NH-24,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.07
+585,NH-21,Uttar Pradesh,RO-UP West,PIU-Badaun,,,9.34
+586,NH-21,Uttar Pradesh,RO-UP West,PIU-Badaun,,,9.8
+587,NH-116A,West Bengal,RO-Kolkata,PIU-Bardhaman,,,0.13
+588,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,yes,N/04041/02001/AP,0.1
+589,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,yes,N/04041/04002/AP,0.8
+590,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.97
+591,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.01
+592,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.1
+593,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,no,,0.27
+594,NH-31,Bihar,RO-Patna,PIU-Chhapra,,,0.02
+595,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,yes,N/02004/27002/AP,0.1
+596,NH-67,Andhra Pradesh,RO-Vijayawada,PIU-Kadapa,yes,N/05023/02001/AP,0.2
+597,NH-150C,Telangana,RO-Hyderabad,PIU-Mahabubnagar,,,0.01
+598,NH-6,Assam,RO-Guwahati,PIU-Shillong,yes,N/09083/01001/ML,0.1
+599,NH-27,Bihar,RO-Patna,PIU-Darbhanga,,,0.04
+600,NH-22,Bihar,RO-Bihar,NH Division Gaya,,,0.95
+601,NH-327,Bihar,RO-Patna,PIU-Supaul,,,0.18
+602,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.1
+603,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.1
+604,NH-319B,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,0.3
+605,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.1
+606,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.4
+607,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.3
+608,NH-503D,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/08059/01002/PB,0.1
+609,Srinagar Ring Road,Jammu and Kashmir,RO-Jammu,PIU-Srinagar,,,0.2
+610,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Srinagar,,,0.01
+611,NH-130CD,Odisha,RO-Bhubaneswar,PIU-Nabrangpur,,,0.4
+612,NH-43,Jharkhand,RO-Ranchi,PIU-Gumla,,,0.4
+613,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.1
+614,NH-948,Karnataka,RO-Bengaluru,PIU-Mysuru,yes,N/08014/03001/KA,0.1
+615,NH-231,Bihar,RO-Patna,PIU-Begusarai,no,,0.1
+616,NH-275,Karnataka,RO-Bengaluru,PIU-Mysuru,,,0.02
+617,NH-709AD,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.1
+618,NH-148,Rajasthan,RO-Jaipur,PIU-Dausa,no,,0.4
+619,NH-47,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.43
+620,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/08009/02001/GJ,0.44
+621,NE-4,Gujarat,RO-Gandhinagar,PIU-Surat,yes,N/01001/10001/GJ,0.1
+622,NH-44,Delhi,RO-Chandigarh,PIU-Sonipat,,,0.1
+623,NH-344N,Delhi,RO-Delhi,PIU-Dwarka,,,0.09
+624,NH-907,Haryana,RO-Chandigarh,PIU-Chandigarh,,,0.3
+625,NH-344GM,Haryana,RO-Chandigarh,PIU-Ambala,yes,N/04043/02001/HR,0.11
+626,NH-167,Telangana,RO-Hyderabad,PIU-Mahabubnagar,,,0.1
+627,NH-527C,Bihar,RO-Patna,PIU-Darbhanga,,,0.19
+628,NH-227A,Bihar,RO-Patna,PIU-Motihari,,,3.59
+629,NH-531,Bihar,RO-Patna,PIU-Chhapra,,,0.48
+630,NH-31,Bihar,RO-Patna,PIU-Chhapra,no,,0.3
+631,NH-24,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.45
+632,Srinagar Ring Road,Jammu and Kashmir,RO-Jammu,PIU-Srinagar,no,,8.52
+633,NH-383,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,0.95
+634,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,yes,N/02006/07001/JK,0.05
+635,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.1
+636,NH-18,Jharkhand,RO-Ranchi,PIU-Jamshedpur,,,0.1
+637,NH-748,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/09035/01002/KA,0.4
+638,NH-152A,Haryana,RO-Chandigarh,PIU-Ambala,no,,4.3
+639,NH-503A,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/08059/02002/PB,0.1
+640,NH-503D,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/08059/01002/PB,0.1
+641,Srinagar Ring Road,Jammu and Kashmir,RO-Jammu,PIU-Srinagar,pending,,0.5
+642,NH-161,Maharashtra,RO-Nagpur,PIU-Washim,yes,N/04005/05001/MH,0.02
+643,NH-66,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,2.9
+644,NH-530,Uttarakhand,RO-UP West,PIU-Moradabad,yes,N/08065/01001/UK,0.42
+645,NH-1,Jammu and Kashmir,RO-Jammu,PIU-Srinagar,,,1.71
+646,NH-752D,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,,,0.05
+647,NH-53,Chhattisgarh,RO-Raipur,PIU-Raipur-II,,,0.1
+648,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.01
+649,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,yes,N/04001/08001/MH,0.1
+650,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02003/MH,0.3
+651,NH-516F,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,yes,N/07061/01001/AP,0.1
+652,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Vijayawada,yes,N/02004/24001/AP,0.84
+653,NH-31,Bihar,RO-Patna,PIU-Chhapra,yes,N/08055/02001/BR,0.1
+654,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,yes,N/02004/27002/AP,0.1
+655,NH-516W,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,yes,N/07069/01001/AP,0.2
+656,NH-53,Odisha,RO-Bhubaneswar,PIU-Dhenkanal,,,0.2
+657,NH-49,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,1.69
+658,NH-49,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.3
+659,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/05012/04004/PB,0.15
+660,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/05012/04004/PB,0.07
+661,NH-5,Punjab,RO-Chandigarh,PIU-Chandigarh,yes,N/06012/01001/PB,0.01
+662,NH-55,Odisha,RO-Bhubaneswar,PIU-Dhenkanal,,,7.16
+663,NH-531,Bihar,RO-Patna,PIU-Chhapra,,,0.0
+664,NH-227A,Bihar,RO-Patna,PIU-Motihari,,,5.05
+665,NH-31,Bihar,RO-Patna,PIU-Chhapra,no,,0.12
+666,NH-231,Bihar,RO-Patna,PIU-Purnia,,,0.1
+667,NH-9,Uttarakhand,RO-Dehradun,PIU-Rudrapur,yes,N/08065/04001/UK,0.1
+668,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/06008/05001/PB,0.44
+669,NH-144A,Jammu and Kashmir,RO-Jammu,PIU-Jammu,no,,1.8
+670,NH-231,Bihar,RO-Patna,PIU-Purnia,,,0.03
+671,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.1
+672,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,,,0.3
+673,NH-516W,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,no,,1.18
+674,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Vijayawada,yes,N/02004/24001/AP,0.69
+675,NH-753B,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,0.09
+676,NH-44,Haryana,RO-Chandigarh,PIU-Ambala,yes,	N/02007/06054/HR,0.59
+677,NH-765,Andhra Pradesh,RO-Andhra Pradesh,EE APRDC Kurnool,,,0.12
+678,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,6.2
+679,NH-516W,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,yes,N/07069/01001/AP,0.4
+680,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,yes,N/02006/07001/JK,0.03
+681,NH-39,Jharkhand,RO-Ranchi,PIU-Ranchi,,,0.07
+682,NH-67,Andhra Pradesh,RO-Bengaluru,PIU-Hospet,yes,N/04036/02002/KA,0.01
+683,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.3
+684,NH-12,West Bengal,RO-Kolkata,PIU-Kolkata,,,0.4
+685,NH-30,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,9.86
+686,Srinagar Ring Road,Jammu and Kashmir,RO-Jammu,PIU-Srinagar,,,0.1
+687,NH-150A,Karnataka,RO-Bengaluru,PIU-Chitradurga,,,0.1
+688,NH-154,Himachal Pradesh,RO-Shimla,PIU-Mandi,yes,N/08021/03002/HP,0.01
+689,NH-87,Tamil Nadu,RO-Tamilnadu,DE(NH)-Virudhunagar,,,0.1
+690,NH-32,Tamil Nadu,RO-Madurai,PIU-Ramanathapuram,,,0.1
+691,NH-32,Tamil Nadu,RO-Madurai,PIU-Ramanathapuram,,,0.05
+692,NH-32,Tamil Nadu,RO-Madurai,PIU-Ramanathapuram,,,0.08
+693,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.1
+694,NH-44,Karnataka,RO-Vijayawada,PIU-Anantapur,pending,,0.08
+695,NH-69,Karnataka,RO-Vijayawada,PIU-Tirupati,,,0.01
+696,NH-31,Bihar,RO-Patna,PIU-Chhapra,,,0.26
+697,NH-752D,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,no,,2.46
+698,NH-752D,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,no,,5.78
+699,NH-33,Bihar,RO-Bihar,NH Division Bhagalpur,,,0.13
+700,NH-31,Bihar,RO-Patna,PIU-Chhapra,yes,N/08055/02004/BR,0.7
+701,NH-53,Chhattisgarh,RO-Raipur,PIU-Raipur-I,,,1.03
+702,NH-53,Chhattisgarh,RO-Raipur,PIU-Raipur-I,,,0.7
+703,NH-703,Punjab,RO-Chandigarh,PIU-Hisar,,,0.93
+704,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Thiruvananthapuram,,,0.09
+705,NH-31,Bihar,RO-Patna,PIU-Chhapra,,,0.77
+706,NH-31,Bihar,RO-Patna,PIU-Chhapra,no,,0.56
+707,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,yes,N/02004/24002/AP,0.78
+708,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,,,0.1
+709,NH-150C,Andhra Pradesh,RO-Hyderabad,PIU-Mahabubnagar,,,0.1
+710,NH-930,Maharashtra,RO-Nagpur,PIU-Chandrapur,yes,	N/09031/01001/MH - RCW,0.02
+711,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,4.61
+712,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,0.5
+713,NH-353I,Maharashtra,RO-Nagpur,PIU-Nagpur,no,,0.71
+714,NH-43,Jharkhand,RO-Ranchi,PIU-Gumla,,,0.11
+715,NH-69,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,0.1
+716,NH-161A,Karnataka,RO-Bengaluru,PIU-Gulbarga,yes,N/06016/01001/KA,0.1
+717,NH-52,Karnataka,RO-Karnataka,EE NH Vijayapura,,,0.64
+718,NH-327,Bihar,RO-Patna,PIU-Supaul,,,0.3
+719,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,0.91
+720,NH-327,Bihar,RO-Patna,PIU-Purnia,no,,0.3
+721,NH-47,Madhya Pradesh,RO-Gandhinagar,PIU-Godhra,,,0.06
+722,NH-41,Gujarat,RO-Gujarat,NH Division Gandhidham,,,0.22
+723,NH-52,Madhya Pradesh,RO-Jaipur,PIU-Kota,,,0.0
+724,NH-49,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.16
+725,NH-20,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.2
+726,NH-154A,Himachal Pradesh,RO-Himachal Pradesh,EE NH Chamba,yes,N/09097/01013/HP,0.03
+727,NH-205K,Punjab,RO-Chandigarh,PIU-Ludhiana,yes,N/06022/04001/PB,0.1
+728,NH-5,Punjab,RO-Chandigarh,PIU-Chandigarh,yes,N/08078/01001/PB,0.6
+729,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,0.1
+730,NH-383,Tamil Nadu,RO-Tamilnadu,DE(NH)-Dindigul,,,0.67
+731,NH-344P,Delhi,RO-Chandigarh,PIU-Sonipat,,,0.1
+732,NH-30,Chhattisgarh,RO-Raipur,PIU-Raipur-II,,,0.1
+733,NH-352,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.54
+734,NH-148B,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.0
+735,NH-344P,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.17
+736,NH-154,Himachal Pradesh,RO-Shimla,PIU-Palampur,,,0.1
+737,NH-154A,Himachal Pradesh,RO-Chandigarh,Div. Pathankot,,,0.07
+738,NH-348,Maharashtra,RO-Mumbai,PIU-Panvel,,,0.1
+739,NE-5,Punjab,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.66
+740,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,,,0.24
+741,NH-753L,Maharashtra,RO-Bhopal,PIU-Khandwa,,,0.0
+742,NH-965,Maharashtra,RO-Mumbai,PIU-Pandharpur,,,0.0
+743,NH-716,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,,,0.09
+744,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,1.67
+745,NH-716,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,0.2
+746,NH-139W,Bihar,RO-Patna,PIU-Motihari,,,9.22
+747,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.1
+748,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.3
+749,NH-87,Tamil Nadu,RO-Tamilnadu,DE(NH)-Virudhunagar,,,0.37
+750,NH-66,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.1
+751,NH-709B,Delhi,RO-Delhi,PIU-Ghaziabad,,,0.42
+752,NH-231,Bihar,RO-Patna,PIU-Purnia,,,0.1
+753,NH-151AD,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,6.0
+754,NH-148B,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.05
+755,NH-44,Telangana,RO-Hyderabad,NH Division Hyderabad,,,0.52
+756,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,0.1
+757,NH-6,Meghalaya,RO-Guwahati,PIU-Shillong,yes,N/09083/01001/ML,0.1
+758,NH-34,Uttar Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.17
+759,NH-334DD,Uttar Pradesh,RO-UP West,PIU - Aligarh,,,0.46
+760,NH-709A,Uttar Pradesh,RO-Delhi,PIU-Baghpat,yes,N/05026/04001/UP,0.1
+761,NH-49,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.1
+762,NH-49,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,0.1
+763,NH-49,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,0.1
+764,NH-54,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/04003/08001/PB,0.1
+765,NH-744,Kerala,RO-Thiruvananthapuram,PIU-Kollam,,,0.37
+766,NH-105B,Punjab,RO-Chandigarh,PIU-Bathinda,,,0.51
+767,NH-105B,Punjab,RO-Chandigarh,PIU-Bathinda,,,0.5
+768,NH-62,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/06008/05001/PB,0.04
+769,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,4.97
+770,NH-52,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,0.1
+771,NH-52,Maharashtra,RO-Mumbai,PIU-Solapur,no,,0.1
+772,NH-731,Uttar Pradesh,RO-UP West,PIU-Bareilly,,,0.1
+773,NH-458,Rajasthan,RO-Jaipur,PIU-Ajmer,,,0.09
+774,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,4.320000000000001
+775,NH-75,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Chittor,no,,0.26
+776,NH-744,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.1
+777,NH-183,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,0.1
+778,NH-87,Tamil Nadu,RO-Tamilnadu,DE(NH)-Virudhunagar,,,0.48
+779,NH-25,Rajasthan,RO-Rajasthan,NH Division Barmer,,,2.78
+780,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.2
+781,NH-161,Maharashtra,RO-Hyderabad,PIU-Gajwel,,,0.59
+782,NH-167,Telangana,RO-Hyderabad,NH Division Mahabubnagar,,,0.58
+783,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.31
+784,NH-9,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/06008/04001/PB,0.0
+785,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,yes,N/08051/01001/GJ,25.08
+786,NH-330A,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.1
+787,NH-352A,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.1
+788,NH-752D,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,no,,2.16
+789,NH-516C,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,0.47
+790,NH-516C,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,0.2
+791,NE-5,Punjab,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.29
+792,NH-566,Goa,RO-Mumbai,PIU-Goa,no,,0.43
+793,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,0.2
+794,NH-244,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,yes,N/09106/01001/JK,0.1
+795,NH-327,Bihar,RO-Patna,PIU-Supaul,,,4.02
+796,NH-327,Bihar,RO-Patna,PIU-Supaul,,,0.06
+797,NH-922,Bihar,RO-Patna,PIU-Patna,,,0.5
+798,NH-353B,Maharashtra,RO-Nagpur,PIU-Chandrapur,yes,N/09024/01001/MH - RCW,0.1
+799,NH-930,Maharashtra,RO-Nagpur,PIU-Chandrapur,no,,0.33
+800,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,38.18
+801,NH-154,Himachal Pradesh,RO-Shimla,PIU-Palampur,,,0.22
+802,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04005/08001/MH,0.65
+803,NH-352A,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.44
+804,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,2.39
+805,NH-516F,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,yes,N/07061/01001/AP,0.05
+806,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,,,0.0
+807,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,1.77
+808,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,0.3
+809,NH-336,Tamil Nadu,RO-Tamilnadu,DE(NH)-Trichy,,,0.4
+810,NH-844,Tamil Nadu,RO-Chennai,PIU-Krishnagiri,,,0.6
+811,NH-709B,Delhi,RO-Delhi,PIU-Ghaziabad,,,0.25
+812,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,,,0.17
+813,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.2
+814,NH-248BB,Delhi,RO-Delhi,PIU-Dwarka,yes,N/03001/01002/DL,0.05
+815,NH-150C,Telangana,RO-Hyderabad,PIU-Mahabubnagar,,,0.08
+816,NH-44,Telangana,RO-Hyderabad,NH Division Hyderabad,,,0.52
+817,NH-334D,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,0.75
+818,NH-566,Goa,RO-Mumbai,PIU-Goa,no,,9.18
+819,NH-20,Jharkhand,RO-Ranchi,PIU-Hazaribagh,,,0.3
+820,NH-753BE,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,21.4
+821,NH-516W,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,yes,N/07076/01002/AP,0.4
+822,NH-119D,Bihar,RO-Patna,PIU-Patna,yes,N/05005/08003/BR,6.22
+823,NH-752D,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,no,,0.3
+824,NH-752D,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,no,,1.36
+825,NH-752D,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,,,0.1
+826,NH-33,Jharkhand,RO-West Bengal,Div 7,,,0.1
+827,NH-22,Bihar,RO-Patna,PIU-Gaya,,,0.6
+828,NH-458,Rajasthan,RO-Jaipur,PIU-Ajmer,,,0.1
+829,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,no,,15.49
+830,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,1.1
+831,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,0.95
+832,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.21
+833,NH-275,Karnataka,RO-Bengaluru,PIU-Bangalore,,,0.48
+834,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Kannur,,,0.7
+835,NH-316A,West Bengal,RO-Bhubaneswar,PIU-Bhubaneshwar,,,0.53
+836,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,yes,N/08051/01001/GJ,22.18
+837,NH-32,Tamil Nadu,RO-Chennai,PIU-Puducherry,,,0.01
+838,NH-703,Haryana,RO-Rajasthan,Sikar Bikaner Division,,,43.3
+839,NE-1,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.2
+840,NH-866,Kerala,RO-Thiruvananthapuram,PIU-Thiruvananthapuram,,,13.03
+841,NH-25,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,20.93
+842,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,no,,4.98
+843,NH-87,Tamil Nadu,RO-Tamilnadu,DE(NH)-Virudhunagar,,,0.0
+844,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,,,8.050000000000002
+845,NH-744,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.1
+846,NH-83,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,0.03
+847,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Harda,,,0.2
+848,NH-119D,Bihar,RO-Patna,PIU-Darbhanga,yes,N/05005/08003/BR,0.68
+849,NH-143D,Jharkhand,RO-Ranchi,PIU-Gumla,no,,81.95
+850,NH-948A,Tamil Nadu,RO-Bengaluru,PIU-Bangalore Expressway,no,,4.78
+851,NH-327,Bihar,RO-Patna,PIU-Supaul,,,2.0
+852,NH-327,Bihar,RO-Patna,PIU-Supaul,,,0.6
+853,NH-922,Bihar,RO-Patna,PIU-Patna,,,0.1
+854,NH-734,Uttarakhand,RO-UP West,PIU-Moradabad,,,0.01
+855,NH-335,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,10.28
+856,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,1.05
+857,NH-327,Bihar,RO-Patna,PIU-Supaul,,,0.2
+858,NH-320,Jharkhand,RO-Ranchi,PIU-Dhanbad,yes,N/04010/16001/JH,0.19
+859,NH-922,Bihar,RO-Patna,PIU-Patna,,,0.7
+860,NH-922,Bihar,RO-Patna,PIU-Patna,,,0.3
+861,NH-148B,Rajasthan,RO-Delhi,PIU-Sohna,,,25.22
+862,NH-347C,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,3.52
+863,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,0.9
+864,NH-53,Maharashtra,RO-Nagpur,PIU-Nagpur,yes,N/02008/24001/MH,0.1
+865,NE-5,Jammu and Kashmir,RO-Jammu,PIU-Jammu,,,0.1
+866,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,no,,0.1
+867,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,0.8
+868,NH-709AD,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,0.03
+869,NH-148N,Rajasthan,RO-Jaipur,PIU-Dausa,no,,5.3
+870,NH-66,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.2
+871,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.7
+872,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,18.94
+873,NH-340C,Andhra Pradesh,RO-Vijayawada,PIU-Kurnool,yes,N/08069/01003/AP,0.1
+874,NH-765,Andhra Pradesh,RO-Andhra Pradesh,EE APRDC Kurnool,,,22.69
+875,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,1.3
+876,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,2.9
+877,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,0.1
+878,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,3.3
+879,NH-40,Andhra Pradesh,RO-Vijayawada,PIU-Kadapa,,,0.2
+880,NH-40,Andhra Pradesh,RO-Vijayawada,PIU-Kadapa,,,0.1
+881,NH-147D,Gujarat,RO-Gandhinagar,PIU-Godhra,,,0.27
+882,NH-148B,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.03
+883,NH-544F,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,pending,,378.92
+884,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,no,,2.0
+885,NH-327C,West Bengal,RO-Patna,PIU-Purnia,no,,0.74
+886,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,0.3
+887,NH-53,Gujarat,RO-Gandhinagar,PIU-Surat,yes,N/04009/01001/GJ,2.02
+888,NH-148B,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.6
+889,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,7.18
+890,NH-753AB,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,17.02
+891,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,no,,0.46
+892,NH-503A,Himachal Pradesh,RO-Chandigarh,PIU-Jalandhar,yes,N/08059/01004/PB,0.22
+893,NH-140,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,0.4
+894,NH-70,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.02
+895,NH-75,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Chittor,no,,1.14
+896,NH-848R,Karnataka,RO-Bengaluru,PIU-Dharwad,,,0.1
+897,NH-848R,Karnataka,RO-Bengaluru,PIU-Dharwad,,,0.1
+898,NH-143D,Jharkhand,RO-Ranchi,PIU-Gumla,no,,1.18
+899,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,20.3
+900,NH-125A,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.4
+901,NH-744,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.01
+902,NH-87,Tamil Nadu,RO-Tamilnadu,DE(NH)-Virudhunagar,,,0.0
+903,NH-40,Tamil Nadu,RO-Chennai,PIU-Krishnagiri,,,0.1
+904,NH-163,Telangana,RO-Hyderabad,PIU-Hyderabad,,,0.09
+905,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,0.01
+906,NH-44,Andhra Pradesh,RO-Vijayawada,PIU-Anantapur,,,0.1
+907,NH-41,Gujarat,RO-Gandhinagar,PIU-Gandhidham,,,0.1
+908,NE-5A,Punjab,RO-Chandigarh,PIU-Amritsar,,,0.1
+909,NH-709A,Uttar Pradesh,RO-Delhi,PIU-Baghpat,yes,N/05026/04001/UP,0.19
+910,NH-128,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.1
+911,NH-731,Uttar Pradesh,RO-UP West,PIU-Bareilly,,,0.21
+912,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Vijayawada,yes,N/02004/23001/AP,0.1
+913,NH-765,Andhra Pradesh,RO-Andhra Pradesh,EE APRDC Kurnool,,,55.08
+914,NH-148B,Rajasthan,RO-Delhi,PIU-Sohna,,,0.2
+915,NH-56,Gujarat,RO-Gandhinagar,PIU-Godhra,,,0.03
+916,NH-731A,Uttar Pradesh,RO-UP East,PIU-Prayagraj,pending,,26.93
+917,NH-930,Maharashtra,RO-Nagpur,PIU-Chandrapur,no,,33.98
+918,NE-5,Jammu and Kashmir,RO-Jammu,PIU-Jammu,,,0.1
+919,NH-75,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Chittor,no,,2.87
+920,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,0.6
+921,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,3.9
+922,NH-33,West Bengal,RO-West Bengal,Div 7,,,7.33
+923,NH-161G,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,33.21
+924,NH-109D,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,5.86
+925,NH-534,Uttar Pradesh,RO-Dehradun,PIU-Najibabad,no,,0.1
+926,NH-731,Uttar Pradesh,RO-UP West,PIU-Bareilly,,,0.1
+927,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,10.7
+928,NH-44,Punjab,RO-Chandigarh,PIU-Jalandhar,yes,N/02007/04001/PB,0.1
+929,NH-12,West Bengal,RO-Kolkata,PIU-Kolkata,,,0.0
+930,NH-527D,Bihar,RO-Patna,PIU-Motihari,,,0.5
+931,NH-66,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.9
+932,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,10.5
+933,NH-340C,Andhra Pradesh,RO-Vijayawada,PIU-Kurnool,yes,N/08069/01004/AP,1.71
+934,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,no,,0.23
+935,NH-503,Himachal Pradesh,RO-Himachal Pradesh,EE NH Jogindernagar,yes,UPC yet to be create,1.6
+936,NH-516W,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,no,,3.55
+937,NH-75,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Chittor,no,,16.12
+938,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,3.1
+939,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,6.0
+940,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,2.8
+941,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Anantapur,pending,,7.72
+942,NH-327C,West Bengal,RO-Patna,PIU-Purnia,no,,0.72
+943,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,0.37
+944,NH-25,Rajasthan,RO-Rajasthan,NH Division Barmer,,,2.73
+945,NE-5,Punjab,RO-Jammu,PIU-Jammu,,,2.6
+946,NH-205AG,Punjab,RO-Chandigarh,PIU-Chandigarh,no,,1.58
+947,NH-27,Assam,RO-Guwahati,PIU-Bongaigaon,yes,N/02026/05005/AS,0.26
+948,NH-27,Assam,RO-Guwahati,PIU-Haflong,no,,0.1
+949,NH-27,Assam,RO-Guwahati,PIU-Haflong,no,,0.4
+950,NH-41,Gujarat,RO-Gujarat,NH Division Gandhidham,,,7.49
+951,NH-19,Bihar,RO-Patna,PIU-Aurangabad_BR,yes,N/02005/13002/BR,0.13
+952,NH-216A,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,yes,N/02004/20003/AP,0.1
+953,NH-140,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,0.4
+954,NH-44,Andhra Pradesh,RO-Vijayawada,PIU-Anantapur,,,0.1
+955,NH-748A,Karnataka,RO-Bengaluru,PIU-Bagalkot,no,,16.9
+956,NE-1,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.1
+957,NH-344B,Punjab,RO-Chandigarh,PIU-Jalandhar,,,0.01
+958,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.56
+959,NH-335,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,4.110000000000001
+960,NH-116,West Bengal,RO-Kolkata,PIU-Kolkata,,,0.946307
+961,LRR,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,0.1
+962,NH-848R,Karnataka,RO-Bengaluru,PIU-Dharwad,,,0.02
+963,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,2.32
+964,NH-67,Andhra Pradesh,RO-Vijayawada,PIU-Kadapa,,,0.1
+965,NH-327,Bihar,RO-Patna,PIU-Purnia,no,,0.8
+966,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,no,,0.2
+967,NH-60,Maharashtra,RO-Mumbai,PIU-Ahmednagar,,,65.5
+968,NH-148B,Rajasthan,RO-Delhi,PIU-Sohna,,,0.3
+969,NH-34,Uttar Pradesh,RO-Dehradun,PIU-Najibabad,no,,0.1
+970,NH-116,West Bengal,RO-Kolkata,PIU-Kolkata,,,4.43
+971,NH-53,Maharashtra,RO-Nagpur,PIU-Nagpur,yes,N/02008/23001/MH,0.45
+972,NH-44,Uttar Pradesh,RO-Jabalpur,PIU-Gwalior,,,3.8
+973,NH-27,Gujarat,RO-Gandhinagar,PIU-Palanpur,yes,N/02016/01012/GJ,0.0
+974,NH-31,Bihar,RO-Bihar,"NH Division, Purnea",yes,N/08017/01004/BR,6.68
+975,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,8.42
+976,NH-544D,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Vijayawada,,,3.9
+977,NH-27,Assam,RO-Guwahati,PIU-Bongaigaon,yes,N/02026/02004/AS,0.1
+978,NE-5,Jammu and Kashmir,RO-Jammu,PIU-Jammu,,,2.9
+979,LRR,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,0.1
+980,NH-27,Madhya Pradesh,RO-Jabalpur,PIU-Gwalior,,,15.37
+981,NH-216,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,14.71
+982,NH-527D,Bihar,RO-Patna,PIU-Motihari,,,0.1
+983,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,0.1
+984,NH-65,Andhra Pradesh,RO-Vijayawada,PIU-Vijayawada,,,0.1
+985,NH-27,Gujarat,RO-Gandhinagar,PIU-Gandhidham,,,0.1
+986,NH-31,Bihar,RO-Bihar,"NH Division, Purnea",yes,N/08017/01004/BR,17.78
+987,NH-139W,Bihar,RO-Patna,PIU-Motihari,,,9.43
+988,NH-47,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.11
+989,NH-22,Bihar,RO-Patna,PIU-Patna,,,0.1
+990,NH-33,Bihar,RO-Patna,PIU-Munger,,,4.0
+991,NH-231,Bihar,RO-Patna,PIU-Begusarai,,,0.01
+992,NH-709AD,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,0.1
+993,NH-67,Andhra Pradesh,RO-Vijayawada,PIU-Kadapa,yes,N/05023/02001/AP,2.51
+994,NH-161G,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,2.86
+995,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,4.0
+996,NH-340C,Andhra Pradesh,RO-Vijayawada,PIU-Kurnool,yes,	N/08069/01002/AP,0.1
+997,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,0.1
+998,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,0.8
+999,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,5.0
+1000,NH-139W,Bihar,RO-Patna,PIU-Motihari,,,6.09
+1001,NH-227F,Bihar,RO-Patna,PIU-Motihari,,,2.22
+1002,NH-150A,Karnataka,RO-Bengaluru,PIU-Hospet,yes,N/04025/07002/KA,0.01
+1003,NH-340C,Andhra Pradesh,RO-Vijayawada,PIU-Kurnool,yes,N/08069/01003/AP,0.1
+1004,NH-340C,Andhra Pradesh,RO-Vijayawada,PIU-Kurnool,yes,N/08069/01003/AP,0.1
+1005,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Anantapur,pending,,8.2
+1006,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,no,,0.74
+1007,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,0.1
+1008,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,0.1
+1009,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,0.5
+1010,NH-40,Andhra Pradesh,RO-Vijayawada,PIU-Kadapa,,,0.01
+1011,NH-27,Bihar,RO-Patna,PIU-Motihari,,,0.06
+1012,NH-227F,Bihar,RO-Patna,PIU-Motihari,,,9.4
+1013,NH-139W,Bihar,RO-Patna,PIU-Motihari,,,0.1
+1014,NH-327,Bihar,RO-Patna,PIU-Supaul,,,0.1
+1015,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,12.56
+1016,NH-19,Bihar,RO-Patna,PIU-Aurangabad_BR,,,0.14
+1017,NH-527,Bihar,RO-Patna,PIU-Purnia,no,,2.1
+1018,NH-365BG,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,3.0
+1019,NH-516W,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,yes,N/07069/01001/AP,0.07
+1020,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,no,,1.7
+1021,NH-41,Gujarat,RO-Gujarat,NH Division Gandhidham,,,16.73
+1022,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,yes,N/02004/28001/AP,0.1
+1023,NH-56,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,0.19
+1024,NH-130,Chhattisgarh,RO-Chhattisgarh,NH Division Ambikapur,,,21.9
+1025,NH-56,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,7.83
+1026,NH-56,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,0.13
+1027,NH-19,Bihar,RO-Patna,PIU-Aurangabad_BR,yes,N/02005/13002/BR,0.105279
+1028,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,5.56
+1029,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,4.27
+1030,NH-67,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,no,,1.8
+1031,NH-365BG,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,1.62
+1032,NH-140,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,1.51
+1033,NH-65,Andhra Pradesh,RO-Vijayawada,PIU-Vijayawada,no,,0.6
+1034,NH-140,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,0.19
+1035,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,0.55
+1036,NH-341,Gujarat,RO-Gandhinagar,PIU-Gandhidham,,,0.1
+1037,NH-30,Chhattisgarh,RO-Raipur,PIU-Raipur-I,,,0.03
+1038,NH-30,Chhattisgarh,RO-Raipur,PIU-Raipur-II,,,0.62
+1039,NH-130CD,Chhattisgarh,RO-Raipur,PIU-Dhamtari,,,0.1
+1040,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Vijayawada,,,0.01
+1041,NH-27,Assam,RO-Guwahati,PIU-Haflong,no,,0.2
+1042,NH-27,Assam,RO-Guwahati,PIU-Haflong,yes,N/02027/18001/AS,0.1
+1043,NH-27,Gujarat,RO-Gandhinagar,PIU-Gandhidham,,,0.0
+1044,NH-71,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Kadapa,no,,2.25
+1045,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,0.6
+1046,NH-44,Andhra Pradesh,RO-Hyderabad,PIU-Mahabubnagar,,,0.04
+1047,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,yes,N/05060/01004/AP,0.1
+1048,NH-44,Andhra Pradesh,RO-Hyderabad,PIU-Mahabubnagar,,,0.1
+1049,NE-7,Andhra Pradesh,RO-Chennai,PIU-Kanchipuram,,,0.01
+1050,NE-7,Andhra Pradesh,RO-Chennai,PIU-Kanchipuram,,,0.325307
+1051,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Anantapur,pending,,3.33
+1052,NH-44,Andhra Pradesh,RO-Hyderabad,PIU-Mahabubnagar,,,0.1
+1053,NE-7,Andhra Pradesh,RO-Chennai,PIU-Kanchipuram,,,0.38
+1054,NH-65,Andhra Pradesh,RO-Hyderabad,PIU-Hyderabad,yes,N/04007/16001/AP,0.57
+1055,NH-75,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Chittor,no,,3.17
+1056,NH-130,Chhattisgarh,RO-Raipur,PIU-Korba,,,0.1
+1057,NH-352W,Haryana,RO-Delhi,PIU-Rewari,no,,7.33
+1058,NH-27,Gujarat,RO-Gandhinagar,PIU-Palanpur,yes,N/02016/01010/GJ,0.38
+1059,NH-716,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,,,0.04
+1060,NH-151A,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,4.24
+1061,NH-27,Bihar,RO-Patna,PIU-Darbhanga,,,0.2
+1062,NH-27,Assam,RO-Guwahati,PIU-Haflong,no,,0.6
+1063,NH-27,Assam,RO-Guwahati,PIU-Haflong,no,,0.4
+1064,NH-151AD,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,0.8
+1065,NH-41,Gujarat,RO-Gandhinagar,PIU-Gandhidham,,,0.4
+1066,NH-227L,Bihar,RO-Patna,PIU-Supaul,,,4.0
+1067,NH-327,Bihar,RO-Patna,PIU-Purnia,,,0.3
+1068,NH-31,Bihar,RO-Patna,PIU-Patna,,,0.7
+1069,NH-31,Bihar,RO-Patna,PIU-Begusarai,yes,N/08017/04001/BR,0.1
+1070,NH-148NA,Haryana,RO-Delhi,CMU-Mathura,,,0.6
+1071,NH-152D,Haryana,RO-Delhi,PIU-Bhiwani-DL,,,0.1
+1072,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,yes,N/08071/04006/HP,1.32
+1073,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/08009/01001/GJ,0.2
+1074,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/08009/02001/GJ,0.2
+1075,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,0.5
+1076,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.8
+1077,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.1
+1078,NH-27,Gujarat,RO-Gandhinagar,PIU-Palanpur,,,0.07
+1079,NH-12,West Bengal,RO-Kolkata,PIU-Malda,,,0.1
+1080,NH-47,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.07
+1081,NH-47,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.1
+1082,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/08009/02001/GJ,0.1
+1083,NH-27,Assam,RO-Guwahati,PIU-Haflong,yes,N/02027/18001/AS,0.6
+1084,NH-907,Haryana,RO-Chandigarh,PIU-Chandigarh,no,,16.11
+1085,NH-52,Haryana,RO-Chandigarh,PIU-Hisar,,,0.1
+1086,NH-352W,Haryana,RO-Delhi,PIU-Rewari,no,,5.1
+1087,NH-333B,Bihar,RO-Patna,PIU-Munger,,,2.05
+1088,NH-31,Bihar,RO-Bihar,"NH Division, Purnea",yes,N/08017/01004/BR,19.03
+1089,NH-133,Bihar,RO-Bihar,NH Division Bhagalpur,,,2.1
+1090,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.7
+1091,NH-33,Bihar,RO-Bihar,NH Division Bhagalpur,,,1.05
+1092,NH-33,Bihar,RO-Patna,PIU-Munger,,,3.24
+1093,NH-131G,Bihar,RO-Patna,PIU-Chhapra,no,,0.68
+1094,NH-22,Bihar,RO-Patna,PIU-Darbhanga,,,2.2
+1095,NH-344,Haryana,RO-Chandigarh,PIU-Chandigarh,no,,2.61
+1096,NH-352A,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.2
+1097,NH-352A,Haryana,RO-Chandigarh,PIU-Sonipat,,,2.76
+1098,NH-334B,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.1
+1099,NH-44,Haryana,RO-Chandigarh,PIU-Ambala,yes,	N/02007/06054/HR,1.01
+1100,NH-148B,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.1
+1101,NH-27,Gujarat,RO-Gandhinagar,PIU-Palanpur,,,0.07
+1102,NH-12,West Bengal,RO-Kolkata,PIU-Malda,,,0.8
+1103,NH-27,Gujarat,RO-Gandhinagar,PIU-Palanpur,yes,N/02016/01009/GJ,0.1
+1104,NH-709A,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.1
+1105,NH-54,Haryana,RO-Chandigarh,PIU-Hisar,,,1.96
+1106,NE-2,Haryana,RO-Delhi,PIU-Ghaziabad,yes,N/01005/01009/HR,0.91
+1107,NH-54,Punjab,RO-Chandigarh,PIU-Hisar,,,0.12
+1108,NH-303,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,no,,1.83
+1109,NH-303,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,,,0.3
+1110,NH-31,Bihar,RO-Bihar,"NH Division, Purnea",yes,N/08017/01004/BR,3.35
+1111,NH-33,Bihar,RO-Bihar,NH Division Bhagalpur,,,3.82
+1112,NH-31,Bihar,RO-Patna,PIU-Begusarai,yes,N/08017/04001/BR,0.1
+1113,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,1.0
+1114,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.1
+1115,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.1
+1116,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,0.4
+1117,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,yes,N/08021/05001/HP,1.0
+1118,NH-531,Bihar,RO-Patna,PIU-Chhapra,yes,N/08055/01001/BR,0.2
+1119,NH-131A,Bihar,RO-Patna,PIU-Purnia,,,0.01
+1120,NH-130,Chhattisgarh,RO-Chhattisgarh,NH Division Bilaspur,,,35.1
+1121,NH-130,Chhattisgarh,RO-Chhattisgarh,NH Division Bilaspur,,,44.16
+1122,NH-27,Bihar,RO-Patna,PIU-Darbhanga,,,0.1
+1123,NH-227L,Bihar,RO-Patna,PIU-Supaul,,,2.1
+1124,NH-48,Gujarat,RO-Jaipur,PIU-Udaipur,no,,0.1
+1125,NH-27,Bihar,RO-Patna,PIU-Darbhanga,,,0.1
+1126,NH-139W,Bihar,RO-Patna,PIU-Motihari,,,12.42
+1127,NH-22,Bihar,RO-Bihar,NH Division Gaya,,,4.7
+1128,NH-22,Bihar,RO-Bihar,NH Division Gaya,,,5.94
+1129,NH-33,Bihar,RO-Patna,PIU-Munger,no,,3.4
+1130,NH-33,Bihar,RO-Patna,PIU-Munger,,,3.84
+1131,NH-333B,Bihar,RO-Patna,PIU-Munger,,,0.3
+1132,NH-47,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.07
+1133,NH-31,Bihar,RO-Patna,PIU-Begusarai,yes,N/08017/05001/BR,0.1
+1134,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,no,,0.1
+1135,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,yes,N/08071/04006/HP,3.61
+1136,NH-103,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,no,,4.9
+1137,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,yes,N/08071/04006/HP,0.4
+1138,NH-130,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.2
+1139,NH-130CD,Chhattisgarh,RO-Raipur,PIU-Dhamtari,,,0.1
+1140,NH-352W,Haryana,RO-Delhi,PIU-Rewari,no,,1.348907
+1141,NH-130,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.5
+1142,NH-48,Delhi,RO-Delhi,PIU-Dwarka,yes,N/02001/01009/HR,0.5
+1143,NH-31,Bihar,RO-Bihar,"NH Division, Purnea",yes,N/08017/01004/BR,3.98
+1144,NH-133,Bihar,RO-Bihar,NH Division Bhagalpur,,,1.02
+1145,NH-133,Bihar,RO-Bihar,NH Division Bhagalpur,,,4.86
+1146,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,1.9
+1147,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,1.4
+1148,NH-31,Bihar,RO-Patna,PIU-Patna,,,0.02
+1149,NH-31,Bihar,RO-Patna,PIU-Patna,,,0.12
+1150,NH-33,Bihar,RO-Bihar,NH Division Bhagalpur,no,,39.55
+1151,NH-566,Goa,RO-Mumbai,PIU-Goa,no,,0.56
+1152,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,0.1
+1153,NH-33,Jharkhand,RO-Bihar,NH Division Bhagalpur,no,,1.32
+1154,NH-231,Bihar,RO-Patna,PIU-Begusarai,no,,0.77
+1155,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.1
+1156,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.2
+1157,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.1
+1158,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,0.5
+1159,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,,,0.03
+1160,NH-33,Bihar,RO-Bihar,NH Division Bhagalpur,,,3.43
+1161,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.22
+1162,NH-139W,Bihar,RO-Patna,PIU-Motihari,,,13.48
+1163,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.2
+1164,NH-139W,Bihar,RO-Patna,PIU-Motihari,0,,16.1
+1165,NE-1,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.1
+1166,NH-131G,Bihar,RO-Patna,PIU-Chhapra,no,,2.01
+1167,NH-320,Jharkhand,RO-Ranchi,PIU-Dhanbad,yes,N/04010/16001/JH,0.01
+1168,NH-27,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/02014/01002/GJ,0.1
+1169,NH-131G,Bihar,RO-Patna,PIU-Patna,,,4.01
+1170,NH-130,Chhattisgarh,RO-Chhattisgarh,NH Division Ambikapur,,,34.0
+1171,NH-30,Chhattisgarh,RO-Chhattisgarh,NH Division Raipur,,,6.76
+1172,NH-130,Chhattisgarh,RO-Raipur,PIU-Korba,,,4.400000000000001
+1173,NE-3,Delhi,RO-Delhi,PIU-Ghaziabad,,,0.06
+1174,NH-344N,Delhi,RO-Delhi,PIU-Dwarka,,,1.08
+1175,NH-22,Jharkhand,RO-Jharkhand,National Highways Division Ranchi,,,17.91
+1176,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.7
+1177,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.1
+1178,NH-43,Jharkhand,RO-Jharkhand,NH Division Gumla,no,,1.9
+1179,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.92
+1180,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/08009/02001/GJ,0.1
+1181,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.1
+1182,NH-231,Bihar,RO-Patna,PIU-Purnia,,,2.7
+1183,NH-22,Bihar,RO-Patna,PIU-Gaya,,,0.2
+1184,NH-53,Chhattisgarh,RO-Raipur,PIU-Raipur-I,,,0.03
+1185,NH-53,Chhattisgarh,RO-Raipur,PIU-Raipur-I,,,0.1
+1186,NH-149B,Chhattisgarh,RO-Raipur,PIU-Korba,,,2.91
+1187,NH-566,Goa,RO-Maharashtra,EE WD XV,no,,8.7
+1188,NE-1,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.1
+1189,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,0.1
+1190,NH-56,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,3.8
+1191,NH-148B,Haryana,RO-Chandigarh,Div. Fatehabad HR,,,12.64
+1192,NH-152G,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,9.61
+1193,NH-18,Jharkhand,RO-Ranchi,PIU-Jamshedpur,yes,N/05004/04005/JH,0.01
+1194,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,yes,N/01004/01021/JK,0.1
+1195,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,yes,N/01004/01021/JK,0.1
+1196,NH-133,Jharkhand,RO-Jharkhand,NH Division Deoghar,pending,,25.84
+1197,NH-53,Chhattisgarh,RO-Raipur,PIU-Raipur-II,,,0.1
+1198,NH-30,Chhattisgarh,RO-Raipur,PIU-Raipur-II,,,0.63
+1199,NH-130,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,1.16
+1200,NH-344N,Delhi,RO-Delhi,PIU-Dwarka,no,,2.3
+1201,NH-48,Delhi,RO-Delhi,PIU-Dwarka,yes,N/02001/01009/HR,0.1
+1202,NH-703,Haryana,RO-Chandigarh,PIU-Hisar,,,5.57
+1203,NH-352A,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.15
+1204,NH-709A,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.1
+1205,NH-248BB,Haryana,RO-Delhi,PIU-Dwarka,yes,N/03001/01001/DL,0.1
+1206,NH-148B,Haryana,RO-Chandigarh,Div. Bhiwani HR,,,7.51
+1207,NH-248A,Haryana,RO-Delhi,PIU-Rewari,yes,N/03003/01002/HR,0.1
+1208,NE-5,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.1
+1209,NH-709A,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.11
+1210,NH-33,Jharkhand,RO-Ranchi,PIU-Sahibganj,no,,5.7
+1211,NH-18,Jharkhand,RO-Kolkata,PIU-Purulia,,,0.1
+1212,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,0.1
+1213,NH-148NA,Delhi,RO-Delhi,CMU-Mathura,no,,2.19
+1214,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.05
+1215,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,0.2
+1216,NH-7,Haryana,RO-Chandigarh,PIU-Chandigarh,no,,1.67
+1217,NH-148B,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.08
+1218,NH-148B,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.1
+1219,NH-154,Himachal Pradesh,RO-Shimla,PIU-Palampur,,,81.25
+1220,NH-303,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,no,,2.8
+1221,NH-114A,Jharkhand,RO-Ranchi,PIU-Deoghar,,,1.8
+1222,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,,,0.12
+1223,NH-33,Jharkhand,RO-Ranchi,PIU-Sahibganj,no,,2.29
+1224,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,no,,0.13
+1225,NH-56,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,0.7
+1226,NH-503,Himachal Pradesh,RO-Himachal Pradesh,EE NH Jogindernagar,yes,UPC yet to be create,3.69
+1227,NH-54,Punjab,RO-Chandigarh,PIU-Hisar,,,0.04
+1228,NH-503,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,no,,0.6
+1229,NH-503,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,no,,9.8
+1230,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.54
+1231,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.2
+1232,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.1
+1233,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.1
+1234,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,yes,N/08021/04001/HP,0.3
+1235,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,0.5
+1236,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,yes,N/08021/05001/HP,0.14
+1237,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,4.553051
+1238,NH-948,Karnataka,RO-Karnataka,EE NH Bengaluru,,,10.0
+1239,NH-766,Karnataka,RO-Bengaluru,PIU-Mysuru,no,,25.53
+1240,NH-27,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/02014/01002/GJ,0.1
+1241,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,yes,N/08051/01002/GJ,20.13
+1242,NH-68,Gujarat,RO-Gandhinagar,PIU-Palanpur,no,,1.37
+1243,NH-48,Gujarat,RO-Jaipur,PIU-Udaipur,no,,0.1
+1244,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,,,0.1
+1245,NE-8,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,1.1
+1246,NH-56,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,1.5
+1247,NH-48,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,0.5
+1248,NH-69,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,1.9
+1249,NH-48,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/02002/10002/KA	,0.1
+1250,NH-52,Karnataka,RO-Karnataka,EE NH Hubli,yes,,21.58
+1251,NH-154A,Himachal Pradesh,RO-Himachal Pradesh,EE NH Chamba,yes,N/09097/01013/HP,67.42
+1252,NH-154A,Himachal Pradesh,RO-Himachal Pradesh,EE NH Chamba,yes,N/09097/01012/HP,60.85
+1253,NH-154,Himachal Pradesh,RO-Shimla,PIU-Palampur,,,1.7
+1254,NH-47,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,1.47
+1255,NH-27,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/02014/01002/GJ,0.1
+1256,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/08009/02001/GJ,0.8
+1257,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,no,,0.3
+1258,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.1
+1259,NH-73,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,0.4
+1260,NH-648,Karnataka,RO-Karnataka,EE NH Bengaluru,no,,13.05
+1261,NH-44,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.2
+1262,NH-103,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,no,,0.1
+1263,NH-103,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,yes,N/08037/04001/HP,8.800000000000002
+1264,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,yes,N/08071/04006/HP,12.74
+1265,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,no,,2.6
+1266,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,no,,0.4
+1267,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.1
+1268,NH-150A,Karnataka,RO-Bengaluru,PIU-Chitradurga,,,0.17
+1269,NH-67,Karnataka,RO-Bengaluru,PIU-Hospet,yes,N/04036/02002/KA,0.9
+1270,NH-75,Karnataka,RO-Bengaluru,PIU-Hassan,,,0.1
+1271,NH-52,Karnataka,RO-Karnataka,EE NH Hubli,yes,,4.58
+1272,NH-344,Haryana,RO-Chandigarh,PIU-Chandigarh,no,,0.3
+1273,NH-151A,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,0.3
+1274,NH-50,Karnataka,RO-Bengaluru,PIU-Gulbarga,yes,N/09032/01001/KA,0.1
+1275,NH-169,Karnataka,RO-Bengaluru,PIU-Mangalore,yes,N/08043/01001/KA,0.1
+1276,NH-48,Haryana,RO-Delhi,PIU-Rewari,yes,N/02001/02003/RJ,0.1
+1277,NH-148B,Haryana,RO-Chandigarh,Div. Bhiwani HR,,,14.22
+1278,NH-709A,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,2.45
+1279,NH-709,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.02
+1280,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.6
+1281,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,yes,N/08021/06001/HP,0.1
+1282,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,2.99
+1283,NH-43,Jharkhand,RO-Jharkhand,NH Division Gumla,pending,,6.86
+1284,NH-43,Jharkhand,RO-Jharkhand,NH Division Gumla,pending,,15.8
+1285,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/08009/01001/GJ,0.1
+1286,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/08009/02001/GJ,0.3
+1287,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,0.3
+1288,NH-151A,Gujarat,RO-Gandhinagar,PIU-Rajkot,yes,N/07024/01001/GJ,0.1
+1289,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.1
+1290,NH-51,Gujarat,RO-Gandhinagar,PIU-Bhavnagar,,,0.92
+1291,NH-56,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,4.41
+1292,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.1
+1293,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,2.11
+1294,NH-39,Jharkhand,RO-Ranchi,PIU-Ranchi,,,6.6
+1295,NH-19,Jharkhand,RO-Ranchi,PIU-Dhanbad,no,,0.4
+1296,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,yes,N/08071/02001/HP,0.1
+1297,NH-709A,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.2
+1298,NH-334B,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.1
+1299,NH-154,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,1.06
+1300,NH-154,Himachal Pradesh,RO-Shimla,PIU-Palampur,,,3.15
+1301,NH-303,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,no,,2.31
+1302,NH-148B,Haryana,RO-Chandigarh,Div. Fatehabad HR,,,14.69
+1303,NH-709A,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.11
+1304,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,yes,N/01004/01021/JK,0.1
+1305,NH-18,Jharkhand,RO-Ranchi,PIU-Jamshedpur,,,0.29
+1306,NH-43,Jharkhand,RO-Ranchi,PIU-Jamshedpur,no,,0.91
+1307,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.1
+1308,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.2
+1309,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,yes,N/08021/04001/HP,5.65
+1310,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,0.1
+1311,NH-205,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,4.87
+1312,NH-703,Haryana,RO-Chandigarh,PIU-Hisar,,,8.12
+1313,NH-152,Haryana,RO-Chandigarh,PIU-Ambala,,,0.1
+1314,NH-334B,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.03
+1315,NH-344,Haryana,RO-Chandigarh,PIU-Chandigarh,no,,0.1
+1316,NH-148B,Haryana,RO-Delhi,PIU-Rewari,no,,0.1
+1317,NH-248A,Haryana,RO-Delhi,PIU-Rewari,no,,0.4
+1318,NH-352,Haryana,RO-Chandigarh,PIU-Sonipat,,,1.87
+1319,NH-54,Haryana,RO-Chandigarh,PIU-Hisar,,,1.59
+1320,NH-152,Haryana,RO-Chandigarh,PIU-Hisar,,,0.3
+1321,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,yes,N/08071/04006/HP,1.930648
+1322,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.1
+1323,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.1
+1324,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.05
+1325,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.5
+1326,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,0.2
+1327,NH-320B,Jharkhand,RO-Ranchi,PIU-Ramgarh,yes,N/04010/14001/JH,7.39
+1328,NH-18,Jharkhand,RO-Ranchi,PIU-Jamshedpur,,,0.17
+1329,NH-18,Jharkhand,RO-Kolkata,PIU-Purulia,,,2.4
+1330,NH-154,Himachal Pradesh,RO-Shimla,PIU-Palampur,,,2.63
+1331,NH-303,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,,,0.4
+1332,NH-503,Himachal Pradesh,RO-Himachal Pradesh,EE NH Jogindernagar,yes,UPC yet to be create,8.82
+1333,NH-503,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,no,,0.2
+1334,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.3
+1335,NH-66,Karnataka,RO-Bengaluru,PIU-Mangalore,yes,N/04029/08001/KA,0.2
+1336,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,yes,N/08071/04006/HP,0.1
+1337,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.1
+1338,NH-205,Himachal Pradesh,RO-Himachal Pradesh,EE NH Hamirpur,,,0.4
+1339,NH-3,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,0.3
+1340,NH-154,Himachal Pradesh,RO-Shimla,PIU-Palampur,,,0.9
+1341,NH-154,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,3.67
+1342,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,yes,N/08071/04006/HP,1.0
+1343,NH-66,Karnataka,RO-Bengaluru,PIU-Mangalore,yes,	N/04002/03001/KA,0.1
+1344,NH-44,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,no,,4.2
+1345,NH-948,Karnataka,RO-Bengaluru,PIU-Mysuru,,,0.06
+1346,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,4.1
+1347,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.1
+1348,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.4
+1349,NH-154,Himachal Pradesh,RO-Shimla,PIU-Mandi,yes,N/08021/08001/HP,0.1
+1350,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,,,1.0
+1351,NH-320,Jharkhand,RO-Ranchi,PIU-Dhanbad,yes,N/04010/16001/JH,0.3
+1352,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,0.01
+1353,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,5.78
+1354,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,0.1
+1355,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,0.4
+1356,NH-52,Karnataka,RO-Karnataka,EE NH Vijayapura,yes,,28.69
+1357,NH-50,Karnataka,RO-Bengaluru,PIU-Hospet,,,0.45
+1358,NH-73,Karnataka,RO-Bengaluru,PIU-Mangalore,pending,,0.05
+1359,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Ramban,no,,0.01
+1360,NH-22,Jharkhand,RO-Jharkhand,National Highway Divsion Hazaribagh,,,1.31
+1361,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,1.2
+1362,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.1
+1363,NH-22,Jharkhand,RO-Jharkhand,National Highway Divsion Hazaribagh,,,20.13
+1364,NH-85,Tamil Nadu,RO-Thiruvananthapuram,PIU-Cochin-II,,,2.0
+1365,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Thiruvananthapuram,,,0.01
+1366,NH-19,Jharkhand,RO-Ranchi,PIU-Dhanbad,no,,1.02
+1367,NH-73,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,0.1
+1368,NH-75,Karnataka,RO-Bengaluru,PIU-Hassan,no,,1.98
+1369,NH-43,Jharkhand,RO-Ranchi,PIU-Gumla,no,,6.9
+1370,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,yes,N/01004/01021/JK,0.4
+1371,NH-22,Jharkhand,RO-Jharkhand,National Highways Division Ranchi,,,19.55
+1372,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,2.2
+1373,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.1
+1374,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.1
+1375,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,no,,0.801819
+1376,NH-20,Jharkhand,RO-Ranchi,PIU-Ranchi,,,2.41
+1377,NH-135BG,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,3.0
+1378,NH-135BG,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,17.41
+1379,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.1
+1380,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,0.7
+1381,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,0.1
+1382,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,2.18
+1383,NH-46,Madhya Pradesh,RO-Jabalpur,PIU-Gwalior,,,0.1
+1384,NH-133,Jharkhand,RO-Jharkhand,NH Division Deoghar,pending,,6.83
+1385,NH-20,Jharkhand,RO-Ranchi,PIU-Ranchi,,,0.02
+1386,NH-20,Jharkhand,RO-Ranchi,PIU-Ranchi,,,6.06
+1387,NH-18,West Bengal,RO-Ranchi,PIU-Dhanbad,,,0.1
+1388,NH-22,Jharkhand,RO-Jharkhand,National Highway Divsion Hazaribagh,,,13.51
+1389,NH-22,Jharkhand,RO-Jharkhand,National Highway Divsion Hazaribagh,,,17.81
+1390,NH-39,Jharkhand,RO-Ranchi,PIU-Ranchi,,,0.13
+1391,NH-43,Jharkhand,RO-Ranchi,PIU-Gumla,no,,1.42
+1392,NH-43,Jharkhand,RO-Ranchi,PIU-Gumla,no,,2.43
+1393,NH-22,Jharkhand,RO-Jharkhand,National Highway Divsion Hazaribagh,,,5.24
+1394,NH-347BG,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.1
+1395,NH-347BG,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.32
+1396,NH-552G,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,,,0.1
+1397,NH-169,Karnataka,RO-Bengaluru,PIU-Mangalore,yes,N/08043/01001/KA,0.1
+1398,NH-169,Karnataka,RO-Bengaluru,PIU-Mangalore,no,,0.6
+1399,NH-43,Jharkhand,RO-Ranchi,PIU-Gumla,no,,0.8
+1400,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,yes,N/01004/01021/JK,0.4
+1401,NH-18,Jharkhand,RO-Ranchi,PIU-Jamshedpur,yes,N/05004/04004/JH,0.1
+1402,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,yes,N/02006/07001/JK,0.12
+1403,NH-48,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,0.1
+1404,NH-648,Karnataka,RO-Karnataka,EE NH Bengaluru,,,1.26
+1405,NH-44,Madhya Pradesh,RO-Jabalpur,PIU-Gwalior,,,0.42
+1406,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.1
+1407,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.4
+1408,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.3
+1409,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,3.6
+1410,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.3
+1411,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,0.1
+1412,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,0.8
+1413,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,0.1
+1414,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,0.3
+1415,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,1.4
+1416,NH-544,Kerala,RO-Thiruvananthapuram,PIU-Palakkad,,,0.5
+1417,NH-45,Madhya Pradesh,RO-Jabalpur,PIU-Jabalpur,,,1.3
+1418,NH-33,Jharkhand,RO-Ranchi,PIU-Sahibganj,no,,11.3
+1419,NH-320B,Jharkhand,RO-Ranchi,PIU-Ramgarh,yes,N/04010/14001/JH,10.4
+1420,NH-33,Jharkhand,RO-Ranchi,PIU-Sahibganj,no,,12.88
+1421,NH-30,Uttar Pradesh,RO-UP East,PIU-Prayagraj,,,0.01
+1422,NH-69,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,0.2
+1423,NH-543,Madhya Pradesh,RO-Jabalpur,PIU-Chhindwara,,,0.02
+1424,NH-543,Madhya Pradesh,RO-Jabalpur,PIU-Chhindwara,,,1.0
+1425,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.62
+1426,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.1
+1427,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.4
+1428,NH-18,Jharkhand,RO-Kolkata,PIU-Purulia,no,,0.1
+1429,NH-648,Karnataka,RO-Bengaluru,PIU-Bangalore,no,,0.8
+1430,NH-52,Karnataka,RO-Karnataka,EE NH Vijayapura,yes,,22.81
+1431,NH-766EE,Karnataka,RO-Bengaluru,PIU-Honnavar,yes,	N/07036/02001/KA,4.234208
+1432,NH-44,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,no,,0.517744
+1433,NH-33,Jharkhand,RO-Ranchi,PIU-Sahibganj,no,,1.91
+1434,NH-114A,Jharkhand,RO-Ranchi,PIU-Deoghar,,,0.1
+1435,NH-85,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,0.57
+1436,NH-85,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,39.91
+1437,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,0.1
+1438,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,0.35
+1439,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Kannur,,,0.1
+1440,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,yes,N/02004/19003/AP,0.06
+1441,NH-19,Jharkhand,RO-Ranchi,PIU-Dhanbad,no,,1.29
+1442,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Kollam,,,0.1
+1443,NH-43,Chhattisgarh,RO-Jabalpur,PIU-Katni,,,0.05
+1444,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.6
+1445,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.1
+1446,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.6
+1447,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.9
+1448,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.1
+1449,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.1
+1450,NH-648,Karnataka,RO-Karnataka,EE NH Bengaluru,no,,17.48
+1451,NH-135BG,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,2.7
+1452,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.9
+1453,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.7
+1454,NH-66,Karnataka,RO-Bengaluru,PIU-Honnavar,,,3.11
+1455,NH-766,Karnataka,RO-Bengaluru,PIU-Mysuru,yes,N/09119/01001/KA,7.9
+1456,NH-69,Karnataka,RO-Bengaluru,PIU-Tumakuru,yes,,0.3
+1457,NH-48,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/02002/14001/KA,0.02
+1458,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Harda,,,0.1
+1459,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,2.6
+1460,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,9.78
+1461,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,5.7
+1462,NH-547,Madhya Pradesh,RO-Jabalpur,PIU-Chhindwara,,,0.3
+1463,NH-347BG,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,1.7
+1464,NH-275,Karnataka,RO-Karnataka,EE NH Mangaluru,,,15.98
+1465,NH-275,Karnataka,RO-Karnataka,EE NH Mangaluru,,,55.7
+1466,NH-69,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,1.53
+1467,NH-748,Karnataka,RO-Bengaluru,PIU-Dharwad,no,,4.440000000000002
+1468,NH-67,Karnataka,RO-Bengaluru,PIU-Hospet,yes,N/04036/02002/KA,0.2
+1469,NH-67,Karnataka,RO-Bengaluru,PIU-Hospet,yes,N/04036/02002/KA,0.1
+1470,NH-52,Karnataka,RO-Karnataka,EE NH Hubli,yes,,2.91
+1471,NH-50,Karnataka,RO-Bengaluru,PIU-Gulbarga,yes,N/09032/01001/KA,0.01
+1472,NH-60,Maharashtra,RO-Mumbai,PIU-Nashik,yes,N/04004/14001/MH,0.3
+1473,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02004/MH,0.1
+1474,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,4.320000000000001
+1475,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.1
+1476,NH-30,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,0.04
+1477,NH-353D,Maharashtra,RO-Nagpur,PIU-Nagpur,yes,N/09019/02001/MH,0.1
+1478,NH-73,Karnataka,RO-Bengaluru,PIU-Tumakuru,no,,7.3
+1479,NH-150A,Karnataka,RO-Bengaluru,PIU-Chitradurga,,,0.3
+1480,NH-150A,Karnataka,RO-Bengaluru,PIU-Chitradurga,,,0.67
+1481,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,0.1
+1482,NH-44,Maharashtra,RO-Nagpur,PIU-Nagpur,yes,N/02009/06001/MH,0.04
+1483,NH-44,Maharashtra,RO-Nagpur,PIU-Yavatmal,yes,N/02009/09002/MH,0.3
+1484,NH-45,Madhya Pradesh,RO-Jabalpur,PIU-Jabalpur,,,0.1
+1485,NH-66,Karnataka,RO-Bengaluru,PIU-Mangalore,,,0.0
+1486,NH-748,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/09035/01002/KA,0.2
+1487,NH-748,Karnataka,RO-Bengaluru,PIU-Dharwad,no,,2.68
+1488,NH-748,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/09035/01001/KA,0.4
+1489,NH-73,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,0.1
+1490,NH-67,Karnataka,RO-Bengaluru,PIU-Hospet,yes,N/04036/02002/KA,0.2
+1491,NH-75,Karnataka,RO-Bengaluru,PIU-Hassan,,,0.01
+1492,NH-48,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/02002/14001/KA,0.1
+1493,NH-150A,Karnataka,RO-Bengaluru,PIU-Chitradurga,,,0.05
+1494,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,yes,N/02004/19003/AP,0.51
+1495,NH-648,Karnataka,RO-Karnataka,EE NH Bengaluru,,,8.29
+1496,NH-22,Jharkhand,RO-Jharkhand,National Highway Divsion Hazaribagh,,,6.56
+1497,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.14
+1498,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.4
+1499,NH-216A,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,0.1
+1500,NH-44,Madhya Pradesh,RO-Jabalpur,PIU-Gwalior,,,0.1
+1501,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,yes,N/04009/05001/MH,0.1
+1502,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02002/MH,0.1
+1503,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.1
+1504,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.8
+1505,NH-169,Karnataka,RO-Bengaluru,PIU-Mangalore,no,,0.1
+1506,NH-748,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/09035/01002/KA,0.89
+1507,NH-748,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/09035/01002/KA,0.5
+1508,NH-748,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/09035/01002/KA,0.1
+1509,NH-154,Himachal Pradesh,RO-Shimla,PIU-Palampur,,,4.2
+1510,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,0.1
+1511,NH-744,Kerala,RO-Thiruvananthapuram,PIU-Kollam,,,8.04
+1512,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.1
+1513,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.4
+1514,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,1.4
+1515,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,0.8
+1516,NH-52,Madhya Pradesh,RO-Bhopal,PIU-Indore,no,,2.6
+1517,NH-347,Madhya Pradesh,RO-Jabalpur,PIU-Chhindwara,,,16.1
+1518,NH-848,Maharashtra,RO-Mumbai,PIU-Thane,,,0.26
+1519,NH-160,Maharashtra,RO-Mumbai,PIU-Nashik,,,0.61
+1520,NH-160,Maharashtra,RO-Mumbai,PIU-Ahmednagar,,,0.597214
+1521,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,4.7
+1522,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,0.7
+1523,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,0.1
+1524,NH-544,Kerala,RO-Thiruvananthapuram,PIU-Palakkad,,,0.32
+1525,NH-744,Kerala,RO-Thiruvananthapuram,PIU-Kollam,,,44.53
+1526,NH-85,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,0.02
+1527,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Kannur,,,2.0
+1528,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,yes,N/04001/01001/MH,0.65
+1529,NH-66,Maharashtra,RO-Mumbai,PIU-Panvel,,,0.13
+1530,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.2
+1531,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Harda,,,0.4
+1532,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Harda,,,1.9
+1533,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,yes,N/02004/19003/AP,0.2
+1534,NH-965,Maharashtra,RO-Mumbai,PIU-Pune,yes,N/04007/06001/MH,0.1
+1535,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,0.03
+1536,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.1
+1537,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.1
+1538,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.6
+1539,NH-648,Karnataka,RO-Bengaluru,PIU-Bangalore,,,0.01
+1540,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,2.5
+1541,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.1
+1542,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,4.2
+1543,NH-146,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,10.7
+1544,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02004/MH,0.2
+1545,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02004/MH,1.76
+1546,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,1.9
+1547,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,1.2
+1548,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Cochin,,,0.1
+1549,NH-544,Kerala,RO-Thiruvananthapuram,PIU-Palakkad,,,0.1
+1550,NH-85,Kerala,RO-Thiruvananthapuram,PIU-Cochin-II,,,0.1
+1551,NH-44,Maharashtra,RO-Nagpur,PIU-Nagpur,yes,N/02008/21001/MH,0.1
+1552,NH-52,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04023/07003/MH,2.3
+1553,NH-52,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04023/07003/MH,0.5
+1554,NH-552G,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,,,0.1
+1555,NH-52,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.0
+1556,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,no,,0.5
+1557,NH-135BG,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,4.7
+1558,NH-135BG,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,8.11
+1559,NH-47,Maharashtra,RO-Nagpur,PIU-Nagpur-2,yes,N/04024/04001/MH,0.1
+1560,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,yes,N/04009/06002/MH,0.01
+1561,NH-52,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,5.24
+1562,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.4
+1563,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,yes,N/04014/08001/MH - RCW,0.1
+1564,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,7.6
+1565,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,0.7
+1566,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,2.1
+1567,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,6.73
+1568,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/03001/MH,0.1
+1569,NH-561A,Maharashtra,RO-Mumbai,PIU-Ahmednagar,,,0.2
+1570,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.1
+1571,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.1
+1572,NH-47,Madhya Pradesh,RO-Nagpur,PIU-Nagpur-2,yes,N/04024/04001/MH,0.1
+1573,NH-347BG,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,5.39
+1574,NH-753BE,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,0.38
+1575,NH-67,Karnataka,RO-Bengaluru,PIU-Dharwad,,,0.02
+1576,NH-166,Maharashtra,RO-Mumbai,PIU-Solapur,,,0.1
+1577,NH-752E,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,1.2
+1578,NH-52,Maharashtra,RO-Mumbai,PIU-Solapur,,,0.1
+1579,NH-347BG,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.4
+1580,NH-347BG,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,23.1
+1581,NH-52,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.1
+1582,NH-20,Jharkhand,RO-Ranchi,PIU-Ranchi,,,0.0
+1583,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,yes,N/04009/05001/MH,0.24
+1584,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,no,,15.5
+1585,NH-965,Maharashtra,RO-Mumbai,PIU-Pune,yes,N/04007/05001/MH,2.82
+1586,NH-753F,Maharashtra,RO-Mumbai,PIU-Ahmednagar,,,0.75
+1587,NH-43,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,5.33
+1588,NH-43,Chhattisgarh,RO-Jabalpur,PIU-Katni,,,0.36
+1589,NH-552G,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,,,0.1
+1590,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,1.2
+1591,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,5.84
+1592,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,1.9
+1593,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.1
+1594,NH-752E,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,1.1
+1595,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.1
+1596,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,8.800000000000002
+1597,NH-27,Madhya Pradesh,RO-Jabalpur,PIU-Gwalior,,,0.1
+1598,NH-543,Madhya Pradesh,RO-Jabalpur,PIU-Chhindwara,,,8.32
+1599,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.1
+1600,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,2.0
+1601,NH-52,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,2.49
+1602,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.42
+1603,NH-161,Maharashtra,RO-Nagpur,PIU-Washim,no,,2.2
+1604,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,18.21
+1605,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,6.03
+1606,NH-22,Jharkhand,RO-Jharkhand,National Highway Divsion Hazaribagh,,,4.360000000000001
+1607,NH-52,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.1
+1608,NH-848,Maharashtra,RO-Mumbai,PIU-Thane,,,0.8
+1609,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,27.2
+1610,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.82
+1611,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,4.77
+1612,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Harda,,,0.89
+1613,NH-44,Karnataka,RO-Bengaluru,PIU-Bangalore,yes,N/02010/06001/KA,0.29
+1614,NH-752D,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,,,0.7
+1615,NH-52,Madhya Pradesh,RO-Bhopal,PIU-Indore,no,,10.12
+1616,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,1.6
+1617,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.7
+1618,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.4
+1619,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,0.2
+1620,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,5.8
+1621,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.7
+1622,NH-45,Madhya Pradesh,RO-Jabalpur,PIU-Jabalpur,,,0.1
+1623,NH-347,Madhya Pradesh,RO-Jabalpur,PIU-Chhindwara,,,5.73
+1624,NH-548,Maharashtra,RO-Mumbai,PIU-Panvel,,,0.2
+1625,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.1
+1626,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.1
+1627,NH-44,Madhya Pradesh,RO-Jabalpur,PIU-Gwalior,,,1.16
+1628,NH-543,Madhya Pradesh,RO-Madhya Pradesh,NH Division Jabalpur,,,3.8
+1629,NH-753L,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,1.7
+1630,NH-6,Meghalaya,RO-Guwahati,PIU-Shillong,yes,N/09083/02001/ML,0.1
+1631,NH-73,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,8.4
+1632,NH-965,Maharashtra,RO-Mumbai,PIU-Pandharpur,,,0.03
+1633,NH-965,Maharashtra,RO-Mumbai,PIU-Pandharpur,no,,0.3
+1634,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,0.9
+1635,NH-65,Maharashtra,RO-Mumbai,PIU-Pune,,,0.1
+1636,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,7.79
+1637,NH-353B,Maharashtra,RO-Nagpur,PIU-Chandrapur,no,,0.1
+1638,NH-52,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,0.04
+1639,NH-52,Karnataka,RO-Karnataka,EE NH Hubli,yes,,22.38
+1640,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,no,,0.2
+1641,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,yes,N/04014/06001/MH,0.1
+1642,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,no,,0.38
+1643,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/05002/MH,2.745699
+1644,NH-930D,Maharashtra,RO-Nagpur,PIU-Chandrapur,yes,N/09029/01001/MH - RCW,0.1
+1645,NH-44,Maharashtra,RO-Nagpur,PIU-Yavatmal,yes,N/02009/09002/MH,0.1
+1646,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02004/MH,0.1
+1647,NH-52,Karnataka,RO-Karnataka,EE NH Hubli,yes,,15.55
+1648,NH-52,Karnataka,RO-Karnataka,EE NH Hubli,yes,,8.710000000000004
+1649,NH-52,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,0.01
+1650,NH-720,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,67.99
+1651,NH-720,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,20.55
+1652,NH-20,Odisha,RO-Odisha,EE-NH Division Keonjhar,,,8.4
+1653,NH-20,Odisha,RO-Odisha,EE-NH Division Keonjhar,,,6.27
+1654,NH-67,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,,0.88
+1655,NH-53,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,0.1
+1656,NH-53,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,0.1
+1657,NH-53,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,3.07
+1658,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,yes,N/04014/08001/MH - RCW,0.1
+1659,NH-52,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,0.1
+1660,NH-16,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,0.01
+1661,NH-948,Karnataka,RO-Karnataka,EE NH Bengaluru,yes,N/08014/03001/KA,0.2
+1662,NH-47,Maharashtra,RO-Nagpur,PIU-Nagpur-2,yes,N/04024/04001/MH,0.1
+1663,NH-561A,Maharashtra,RO-Mumbai,PIU-Ahmednagar,,,2.5
+1664,NH-52,Karnataka,RO-Mumbai,PIU-Solapur,,,1.7
+1665,NH-166,Maharashtra,RO-Mumbai,PIU-Solapur,,,0.1
+1666,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,no,,2.4
+1667,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/03001/MH,0.93
+1668,NH-752E,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,0.2
+1669,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/02002/MH,2.02
+1670,NH-53,Odisha,RO-Bhubaneswar,PIU-Sambalpur,,,0.1
+1671,NH-16,Odisha,RO-Bhubaneswar,PIU-Berhampur,,,0.03
+1672,NH-55,Odisha,RO-Bhubaneswar,PIU-Sambalpur,,,1.4
+1673,NH-49,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,0.153835
+1674,NH-53,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,0.1
+1675,NH-52,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,0.1
+1676,NH-930D,Maharashtra,RO-Nagpur,PIU-Chandrapur,yes,N/09029/01001/MH - RCW,0.01
+1677,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,0.83
+1678,NH-848,Maharashtra,RO-Mumbai,PIU-Nashik,,,0.29
+1679,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,no,,14.85
+1680,NE-7,Karnataka,RO-Karnataka,EE NH Bengaluru,no,,0.1
+1681,NE-7,Karnataka,RO-Vijayawada,PIU-Chittoor,,,0.0
+1682,NH-965,Maharashtra,RO-Mumbai,PIU-Pune,yes,N/04007/05001/MH,5.3
+1683,NH-965,Maharashtra,RO-Mumbai,PIU-Pune,yes,N/04007/05001/MH,4.8
+1684,NH-752E,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,3.97
+1685,NH-49,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,1.6
+1686,NH-66,Karnataka,RO-Bengaluru,PIU-Honnavar,,,0.1
+1687,NH-520,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.1
+1688,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,no,,3.649129
+1689,NH-753F,Maharashtra,RO-Mumbai,PIU-Ahmednagar,,,0.1
+1690,NH-18,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,0.0
+1691,NH-65,Maharashtra,RO-Mumbai,PIU-Pune,yes,N/04007/01001/MH,0.01
+1692,NH-965,Maharashtra,RO-Mumbai,PIU-Pandharpur,yes,N/04007/08001/MH,0.06
+1693,NH-548D,Maharashtra,RO-Mumbai,PIU-Pune,,,0.03
+1694,NH-703,Punjab,RO-Chandigarh,Div. Sangrur at Patiala,no,,9.94
+1695,NH-7,Punjab,RO-Chandigarh,PIU-Chandigarh,yes,N/05012/01005,0.1
+1696,NH-154,Punjab,RO-Chandigarh,Div. Pathankot,,,1.1
+1697,NH-44,Punjab,RO-Chandigarh,PIU-Jalandhar,yes,N/02007/04001/PB,0.0
+1698,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,1.09
+1699,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/05001/MH,0.1
+1700,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,yes,N/04001/01001/MH,0.797747
+1701,NH-348,Maharashtra,RO-Mumbai,PIU-Panvel,,,0.1
+1702,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02007/MH,4.89
+1703,NH-166,Maharashtra,RO-Mumbai,PIU-Solapur,,,0.1
+1704,NH-154A,Punjab,RO-Chandigarh,Div. Pathankot,,,18.34
+1705,NH-54,Punjab,RO-Chandigarh,PIU-Amritsar,no,,0.65
+1706,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/05012/04004/PB,4.49
+1707,NH-966,Kerala,RO-Thiruvananthapuram,PIU-Palakkad,,,32.49
+1708,NH-965DD,Maharashtra,RO-Mumbai,PIU-Pune,yes,N/05017/01003/MH,0.1
+1709,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,no,,3.9
+1710,NH-6,Meghalaya,RO-Guwahati,PIU-Shillong,yes,N/09083/01001/ML,0.2
+1711,NH-348A,Maharashtra,RO-Mumbai,PIU-Panvel,,,0.14
+1712,NH-965,Maharashtra,RO-Mumbai,PIU-Pune,yes,N/04007/05001/MH,6.2
+1713,NH-965,Maharashtra,RO-Mumbai,PIU-Pandharpur,yes,N/04007/09001/MH,0.04
+1714,NH-966,Kerala,RO-Thiruvananthapuram,PIU-Palakkad,,,47.1
+1715,NH-5,Punjab,RO-Chandigarh,Div-Ferozepur,,,7.92
+1716,NH-344A,Punjab,RO-Chandigarh,PIU-Jalandhar,no,,6.91
+1717,NH-758,Rajasthan,RO-Jaipur,PIU-Chittorgarh,no,,1.65
+1718,NH-52,Maharashtra,RO-Mumbai,PIU-Solapur,,,0.1
+1719,NH-75,Karnataka,RO-Bengaluru,PIU-Hassan,,,0.1
+1720,NH-67,Karnataka,RO-Bengaluru,PIU-Dharwad,,,0.1
+1721,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/03001/MH,0.1
+1722,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/02001/MH,0.1
+1723,NH-965,Maharashtra,RO-Mumbai,PIU-Pune,no,,0.4
+1724,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,,,1.41
+1725,NH-753BE,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,1.4
+1726,NH-503A,Punjab,RO-Chandigarh,PIU-Amritsar,,,0.02
+1727,NH-154A,Himachal Pradesh,RO-Chandigarh,Div. Pathankot,,,4.16
+1728,NH-503A,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/08059/01002/PB,0.21
+1729,NH-125,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,25.1
+1730,NH-11,Rajasthan,RO-Jaipur,PIU-Bikaner,,,0.1
+1731,NH-52,Karnataka,RO-Karnataka,EE NH Hubli,yes,,57.21
+1732,NH-52,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,1.9
+1733,NH-67,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/04036/04001/KA,0.1
+1734,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/02002/MH,0.17
+1735,NH-166,Maharashtra,RO-Mumbai,PIU-Solapur,,,0.3
+1736,NH-148,Rajasthan,RO-Jaipur,PIU-Dausa,yes,N/09009/02001/RJ,0.19
+1737,NH-67,Karnataka,RO-Bengaluru,PIU-Dharwad,no,,0.5
+1738,NH-753L,Maharashtra,RO-Bhopal,PIU-Khandwa,,,1.1
+1739,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/03001/MH,0.1
+1740,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/03001/MH,0.8
+1741,NH-20,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.2
+1742,NH-53,Odisha,RO-Bhubaneswar,PIU-Chandikhole,0,N/99098/09080/KA,0.1
+1743,NH-561A,Maharashtra,RO-Mumbai,PIU-Ahmednagar,,,0.6
+1744,NH-52,Maharashtra,RO-Mumbai,PIU-Solapur,,,0.13
+1745,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Thiruvananthapuram,,,0.1
+1746,NH-48,Rajasthan,RO-Jaipur,PIU-Chittorgarh,yes,N/02001/06001/RJ,0.1
+1747,NH-458,Rajasthan,RO-Jaipur,PIU-Ajmer,,,0.01
+1748,NH-758,Rajasthan,RO-Jaipur,PIU-Chittorgarh,yes,N/06015/01004/RJ,0.31
+1749,NH-48,Rajasthan,RO-Jaipur,PIU-Chittorgarh,yes,N/02001/06001/RJ,0.1
+1750,NH-18,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,0.4
+1751,NH-69,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,0.52
+1752,NH-49,Odisha,RO-Odisha,EE-NH Division Deogarh,,,20.65
+1753,NH-16,Odisha,RO-Bhubaneswar,PIU-Bhubaneshwar,,,0.1
+1754,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02006/MH,0.8
+1755,NH-458,Rajasthan,RO-Jaipur,PIU-Ajmer,,,0.05
+1756,NH-11,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,1.3
+1757,NH-968,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,0.1
+1758,NH-49,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.25
+1759,NH-166A,Maharashtra,RO-Mumbai,PIU-Panvel,,,21.7
+1760,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,3.98
+1761,NH-458,Rajasthan,RO-Jaipur,PIU-Ajmer,,,0.0
+1762,NH-25,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,1.0
+1763,NH-25,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.4
+1764,NH-48,Rajasthan,RO-Jaipur,PIU-Udaipur,yes,N/02001/09001/RJ,0.1
+1765,NH-166,Maharashtra,RO-Mumbai,PIU-Kolhapur,yes,	N/08011/06003/MH,6.5
+1766,NH-166,Maharashtra,RO-Mumbai,PIU-Kolhapur,yes,N/08011/06003/MH,4.64
+1767,NH-348A,Maharashtra,RO-Mumbai,PIU-Panvel,,,2.24
+1768,NE-7,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,0.0
+1769,NH-18,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,1.72
+1770,NE-5,Punjab,RO-Chandigarh,PIU-Ludhiana Expressway,,,1.27
+1771,NH-69,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,1.1
+1772,NH-69,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,0.03
+1773,NE-4,Rajasthan,RO-Jaipur,PIU-Dausa,yes,N/01001/03005/RJ,0.02
+1774,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,3.64
+1775,NH-6,Meghalaya,RO-Guwahati,PIU-Shillong,no,,4.58
+1776,NH-146,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,6.13
+1777,NH-25,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,3.77
+1778,NH-143,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.1
+1779,NH-65,Andhra Pradesh,RO-Vijayawada,PIU-Vijayawada,yes,	N/04007/16001/AP,0.84
+1780,NH-3,Punjab,RO-Chandigarh,Div. Hoshiarpur,,,13.72
+1781,NH-44,Punjab,RO-Chandigarh,PIU-Ambala,,,0.0
+1782,NH-3,Punjab,RO-Chandigarh,Div. Hoshiarpur,,,2.58
+1783,NH-703,Punjab,RO-Chandigarh,Div. Bathinda-1,no,,18.73
+1784,NH-703,Punjab,RO-Chandigarh,Div. Sangrur at Patiala,no,,10.69
+1785,NH-25,Rajasthan,RO-Rajasthan,NH Division Jodhpur,no,,0.67
+1786,NH-911,Rajasthan,RO-Jaipur,PIU-Bikaner,,,0.1
+1787,NH-316,Odisha,RO-Bhubaneswar,PIU-Bhubaneshwar,no,,0.1
+1788,NH-944,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,1.0
+1789,NH-53,Odisha,RO-Bhubaneswar,PIU-Sambalpur,,,0.2
+1790,NH-53,Odisha,RO-Bhubaneswar,PIU-Sambalpur,,,0.3
+1791,NH-966,Kerala,RO-Thiruvananthapuram,PIU-Palakkad,,,33.93
+1792,NH-205K,Punjab,RO-Chandigarh,PIU-Chandigarh,yes,N/06022/04003/PB,1.1052
+1793,NH-703,Punjab,RO-Chandigarh,PIU-Ludhiana,yes,N/03008/02002/PB,0.1
+1794,NH-54,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/04003/04004/PB,5.43
+1795,NH-703,Punjab,RO-Chandigarh,Div. Jalandhar,,,0.5
+1796,NH-703,Punjab,RO-Chandigarh,Div. Jalandhar,,,0.01
+1797,NH-911,Rajasthan,RO-Jaipur,PIU-Bikaner,,,0.37
+1798,NH-123,Rajasthan,RO-Jaipur,PIU-Dausa,no,,0.11
+1799,NH-23,Rajasthan,RO-Jaipur,PIU-Dausa,no,,0.79
+1800,NH-32,Tamil Nadu,RO-Madurai,PIU-Ramanathapuram,,,16.13
+1801,NH-32,Tamil Nadu,RO-Madurai,PIU-Tuticorin,,,0.03
+1802,NH-338,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,22.03
+1803,NH-149,Odisha,RO-Bhubaneswar,PIU-Dhenkanal,,,0.2
+1804,NH-275,Karnataka,RO-Karnataka,EE NH Bengaluru,yes,N/08029/01003/KA,0.1
+1805,NH-49,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,0.02
+1806,NH-648,Tamil Nadu,RO-Tamilnadu,DE(NH)-Salem,,,11.7
+1807,NH-132,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.05
+1808,NH-336,Tamil Nadu,RO-Tamilnadu,DE(NH)-Trichy,,,6.2
+1809,NH-336,Tamil Nadu,RO-Tamilnadu,DE(NH)-Trichy,,,4.1
+1810,NH-183,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,19.41
+1811,NH-716,Tamil Nadu,RO-Chennai,PIU-Chennai2,,,0.2
+1812,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.5
+1813,NH-44,Tamil Nadu,RO-Chennai,PIU-Salem,,,0.1
+1814,NH-79,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.3
+1815,NH-53,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,2.87
+1816,NH-25,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.19
+1817,NH-125,Rajasthan,RO-Jaipur,PIU-Jodhpur,yes,N/04003/12002/RJ,1.0
+1818,NH-52,Rajasthan,RO-Jaipur,PIU-Jaipur,,,0.1
+1819,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.21
+1820,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,1.19
+1821,NH-383,Tamil Nadu,RO-Tamilnadu,DE(NH)-Dindigul,,,12.21
+1822,NH-48,Rajasthan,RO-Jaipur,PIU-Jaipur,,,0.1
+1823,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,3.23
+1824,NH-544,Tamil Nadu,RO-Chennai,PIU-Coimbatore,,,0.04
+1825,NH-83,Tamil Nadu,RO-Chennai,PIU-Coimbatore,,,0.1
+1826,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,1.7
+1827,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,2.4
+1828,NH-38,Tamil Nadu,RO-Madurai,PIU-Tuticorin,no,,0.0
+1829,NH-927A,Madhya Pradesh,RO-Bhopal,PIU-Ratlam,no,,13.55
+1830,NH-148C,Rajasthan,RO-Jaipur,PIU-Jaipur,,,0.07
+1831,NH-125,Rajasthan,RO-Jaipur,PIU-Jodhpur,yes,N/04003/12002/RJ,0.3
+1832,NH-58,Rajasthan,RO-Jaipur,PIU-Ajmer,,,0.06
+1833,NH-785,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,2.46
+1834,NH-46,Madhya Pradesh,RO-Bhopal,PIU-Harda,,,0.01
+1835,NH-383,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,6.54
+1836,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,2.2
+1837,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.1
+1838,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,2.0
+1839,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,1.8
+1840,NH-7,Punjab,RO-Chandigarh,PIU-Chandigarh,yes,N/05012/01005,0.1
+1841,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/06008/01001/PB,0.02
+1842,NH-149,Odisha,RO-Odisha,EE-NH Division Pallahara,,,0.04
+1843,NH-20,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.1
+1844,NH-20,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.01
+1845,NH-275,Karnataka,RO-Bengaluru,PIU-Mysuru,yes,N/04031/01001/KA,0.08
+1846,NH-49,Odisha,RO-Odisha,EE-NH Division Jharsuguda,,,14.75
+1847,NH-49,Odisha,RO-Odisha,EE-NH Division Deogarh,,,4.81
+1848,NH-53,Odisha,RO-Odisha,EE-NH Division Deogarh,,,52.63
+1849,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,,,0.4
+1850,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,,,2.9
+1851,NH-183,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,0.1
+1852,NH-183,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,0.1
+1853,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,2.65
+1854,NH-58,Rajasthan,RO-Jaipur,PIU-Ajmer,,,0.1
+1855,NH-162,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.1
+1856,NH-154,Punjab,RO-Chandigarh,Div. Pathankot,,,5.6
+1857,NH-154,Punjab,RO-Chandigarh,Div. Pathankot,,,5.33
+1858,NH-5,Punjab,RO-Chandigarh,PIU-Ludhiana,yes,N/05035/01014/PB,0.04
+1859,NH-354B,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/07090/01002/PB,1.44
+1860,NH-205,Punjab,RO-Chandigarh,PIU-Chandigarh,,,0.1
+1861,NH-205K,Punjab,RO-Chandigarh,PIU-Ludhiana,yes,N/06022/04001/PB,0.4
+1862,NH-53,Odisha,RO-Odisha,EE-NH Division Pallahara,,,5.25
+1863,NH-149,Odisha,RO-Bhubaneswar,PIU-Dhenkanal,,,0.72
+1864,NH-275,Karnataka,RO-Bengaluru,PIU-Mysuru,yes,N/04031/02001/KA,0.1
+1865,NH-503A,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/08059/01002/PB,0.01
+1866,NH-968,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,0.1
+1867,NH-25,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.4
+1868,NH-347B,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.9
+1869,NE-4,Rajasthan,RO-Jaipur,PIU-Dausa,yes,N/01001/03004/RJ,0.1
+1870,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,29.79
+1871,NH-65,Telangana,RO-Hyderabad,PIU-Hyderabad,,,0.1
+1872,NH-167,Telangana,RO-Hyderabad,NH Division Mahabubnagar,,,2.28
+1873,NH-161,Telangana,RO-Hyderabad,PIU-Gajwel,,,0.1
+1874,NH-27,Rajasthan,RO-Jaipur,PIU-Kota,,,0.1
+1875,NH-49,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,1.39
+1876,NH-49,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,1.0
+1877,NH-27,Uttar Pradesh,RO-UP West,PIU-Kanpur,,,0.1
+1878,NE-4,Madhya Pradesh,RO-Bhopal,PIU-Ratlam,,,0.1
+1879,NH-731,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,0.13
+1880,NH-911,Rajasthan,RO-Jaipur,PIU-Hanumangarh,yes,N/09010/01001/RJ,0.02
+1881,NH-765,Telangana,RO-Hyderabad,NH Division Hyderabad,,,20.56
+1882,NH-163G,Telangana,RO-Hyderabad,PIU-Warangal,,,0.1
+1883,NH-765,Telangana,RO-Hyderabad,PIU-Hyderabad,,,4.27
+1884,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,5.19
+1885,NH-731,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,0.1
+1886,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,0.94
+1887,NH-167,Telangana,RO-Hyderabad,NH Division Mahabubnagar,,,7.6
+1888,NH-911,Rajasthan,RO-Jaipur,PIU-Bikaner,,,0.87
+1889,NH-125,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.72
+1890,NH-11,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.13
+1891,NH-925,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.2
+1892,NH-944,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,6.73
+1893,NH-944,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.13
+1894,NH-944,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.3
+1895,NH-87,Tamil Nadu,RO-Tamilnadu,DE(NH)-Virudhunagar,,,0.73
+1896,NH-81,Tamil Nadu,RO-Chennai,PIU-Viluppuram,no,,12.905228999999999
+1897,NH-534,Uttarakhand,RO-Dehradun,PIU-Najibabad,pending,,3.68
+1898,NH-109,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,7.1
+1899,NH-48,Rajasthan,RO-Jaipur,PIU-Ajmer,,,0.57
+1900,NH-48,Tamil Nadu,RO-Chennai,PIU-Kanchipuram,,,0.43
+1901,NH-32,Tamil Nadu,RO-Madurai,PIU-Tuticorin,,,30.18
+1902,NH-32,Tamil Nadu,RO-Madurai,PIU-Tuticorin,,,39.41
+1903,NH-536,Tamil Nadu,RO-Madurai,PIU-Karaikudi,no,,1.0
+1904,NH-536,Tamil Nadu,RO-Madurai,PIU-Karaikudi,no,,8.1
+1905,NH-54,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/04003/08001/PB,0.1
+1906,NH-54,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/04003/04004/PB,5.3
+1907,NH-154A,Punjab,RO-Chandigarh,Div. Pathankot,,,18.59
+1908,NH-354B,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/07090/01002/PB,1.87
+1909,NH-544,Tamil Nadu,RO-Chennai,PIU-Salem,,,0.1
+1910,NH-39,Uttar Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.0
+1911,NH-44,Punjab,RO-Chandigarh,PIU-Ludhiana,yes,N/02007/06050/PB,0.1
+1912,NH-966,Kerala,RO-Thiruvananthapuram,PIU-Palakkad,,,3.82
+1913,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,1.28
+1914,NH-28,Uttar Pradesh,RO-UP East,PIU-Azamgarh,,,0.38
+1915,NH-27,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.1
+1916,NH-544H,Tamil Nadu,RO-Chennai,PIU-Coimbatore,,,0.1
+1917,NH-383,Tamil Nadu,RO-Tamilnadu,DE(NH)-Dindigul,,,18.25
+1918,NH-785,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,0.1
+1919,NH-132,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.01
+1920,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.2
+1921,NH-81,Tamil Nadu,RO-Chennai,PIU-Viluppuram,no,,0.16
+1922,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,2.0
+1923,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.05
+1924,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.1
+1925,NH-968,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,0.6
+1926,NH-968,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,0.4
+1927,NH-11,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.3
+1928,NH-27,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,yes,N/02021/06010/UP,1.9
+1929,NH-30,Uttar Pradesh,RO-UP West,PIU-Bareilly,,,0.4
+1930,NH-30,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,1.0
+1931,NH-530B,Uttar Pradesh,RO-UP West,PIU-Badaun,,,0.66
+1932,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.04
+1933,NH-81,Tamil Nadu,RO-Chennai,PIU-Viluppuram,no,,0.56
+1934,NH-81,Tamil Nadu,RO-Chennai,PIU-Viluppuram,no,,5.5
+1935,NH-81,Tamil Nadu,RO-Tamilnadu,DE(NH)-Dindigul,,,16.33
+1936,NH-44,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.1
+1937,NH-966,Kerala,RO-Thiruvananthapuram,PIU-Palakkad,,,3.4
+1938,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/05012/04004/PB,0.1
+1939,NH-44,Telangana,RO-Hyderabad,PIU-Kamareddy,yes,N/02009/15001/TS,0.1
+1940,NH-503A,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/08059/01002/PB,0.21
+1941,NH-911,Rajasthan,RO-Jaipur,PIU-Bikaner,,,0.1
+1942,NH-16,Tamil Nadu,RO-Chennai,PIU-Chennai,,,0.1
+1943,NH-44,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,0.1
+1944,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.9
+1945,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.82
+1946,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,no,,0.4
+1947,NH-46,Madhya Pradesh,RO-Bhopal,PIU-Harda,,,1.3
+1948,NH-383,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,0.12
+1949,NH-31,Uttar Pradesh,RO-UP East,PIU-Azamgarh,,,4.2
+1950,NH-25,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.2
+1951,NH-347B,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.8
+1952,NH-744,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,2.24
+1953,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,0.35
+1954,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,0.1
+1955,NH-66,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.02
+1956,NH-23,Rajasthan,RO-Jaipur,PIU-Dausa,no,,0.24
+1957,NH-21,Rajasthan,RO-Jaipur,PIU-Dausa,yes,N/04038/03001/RJ,0.2
+1958,NH-925,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.1
+1959,NH-44,Rajasthan,RO-Jabalpur,PIU-Gwalior,,,0.1
+1960,NH-148,Rajasthan,RO-Jaipur,PIU-Dausa,yes,N/09009/02001/RJ,0.1
+1961,NH-43,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,2.41
+1962,NH-552,Rajasthan,RO-Jaipur,PIU-Sawai Madhopur,yes,N/09015/01002/RJ,0.11
+1963,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,21.23
+1964,NH-52,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.1
+1965,NH-31,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.28
+1966,NH-34,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,0.1
+1967,NH-128,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,1.04
+1968,NH-65,Telangana,RO-Bengaluru,PIU-Gulbarga,,,0.1
+1969,NH-30,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,0.1
+1970,NH-944,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,2.1
+1971,NH-944,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,7.53
+1972,NH-44,Telangana,RO-Hyderabad,NH Division Hyderabad,,,2.34
+1973,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,1.29
+1974,NH-128A,Uttar Pradesh,RO-UP East,PIU-Azamgarh,,,3.7
+1975,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Harda,,,0.01
+1976,NH-31,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,8.130000000000004
+1977,NH-163,Telangana,RO-Hyderabad,PIU-Hyderabad,,,0.1
+1978,NH-365A,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.1
+1979,NH-365A,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.3
+1980,NH-52,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.1
+1981,NE-6,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,1.24
+1982,NH-58,Rajasthan,RO-Jaipur,PIU-Udaipur,yes,N/03004/03001/RJ,0.01
+1983,NH-758,Rajasthan,RO-Jaipur,PIU-Chittorgarh,yes,N/06015/01001/RJ,0.6
+1984,NH-81,Tamil Nadu,RO-Chennai,PIU-Viluppuram,no,,0.9
+1985,NH-81,Tamil Nadu,RO-Tamilnadu,DE(NH)-Coimbatore,,,38.93
+1986,NH-183,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,4.2
+1987,NH-34,Uttarakhand,RO-Dehradun,PIU-Roorkee,,,0.2
+1988,NH-34,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,1.28
+1989,NH-68,Rajasthan,RO-Jaipur,PIU-Jaisalmer,no,,0.3
+1990,NH-307,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,0.49
+1991,NH-307,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,0.4
+1992,NH-30,Uttarakhand,RO-UP West,PIU-Bareilly,,,0.01
+1993,NH-7,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,33.32
+1994,NH-32,Tamil Nadu,RO-Madurai,PIU-Ramanathapuram,,,119.29
+1995,NH-32,Tamil Nadu,RO-Madurai,PIU-Ramanathapuram,,,42.72
+1996,NH-734,Uttar Pradesh,RO-Dehradun,PIU-Najibabad,no,,2.79
+1997,NH-927,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,4.24
+1998,NH-509,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.1
+1999,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,8.220000000000002
+2000,NH-25,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.27
+2001,NH-347B,Madhya Pradesh,RO-Bhopal,PIU-Khandwa,,,0.1
+2002,NH-9,Uttar Pradesh,RO-Dehradun,PIU-Rudrapur,yes,N/08065/01001/UK,0.3
+2003,NH-27,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.13
+2004,NH-27,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.37
+2005,NH-128,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.1
+2006,NH-785,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,0.2
+2007,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,1.6
+2008,NH-81,Tamil Nadu,RO-Chennai,PIU-Viluppuram,no,,4.006027
+2009,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,,,1.65
+2010,NH-25,Rajasthan,RO-Jaipur,PIU-Jodhpur,no,,3.7
+2011,NH-744,Tamil Nadu,RO-Madurai,PIU-Madurai,yes,N/05009/01002/TN,0.1
+2012,NH-785,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,0.1
+2013,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,,,4.27
+2014,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,no,,0.13
+2015,NH-12,West Bengal,RO-Kolkata,PIU-Malda,,,1.27
+2016,NH-12,West Bengal,RO-Kolkata,PIU-Malda,,,1.3
+2017,NH-927,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,0.76
+2018,NH-25,Rajasthan,RO-Rajasthan,NH Division Jodhpur,no,,6.71
+2019,NH-911,Rajasthan,RO-Jaipur,PIU-Bikaner,,,1.0
+2020,NH-12,West Bengal,RO-Kolkata,PIU-Malda,,,0.6
+2021,NH-81,Tamil Nadu,RO-Chennai,PIU-Viluppuram,no,,0.6
+2022,NH-44,Tamil Nadu,RO-Madurai,PIU-Madurai,,,0.22
+2023,NH-44,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,0.01
+2024,NH-81,Tamil Nadu,RO-Tamilnadu,DE(NH)-Coimbatore,,,8.07
+2025,NH-44,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,0.1
+2026,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.39
+2027,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,1.5
+2028,NH-46,Madhya Pradesh,RO-Bhopal,PIU-Harda,,,1.4
+2029,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.03
+2030,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,0.1
+2031,NH-83,Tamil Nadu,RO-Madurai,PIU-Thanjavur,,,2.7
+2032,NH-87,Tamil Nadu,RO-Tamilnadu,DE(NH)-Virudhunagar,,,0.67
+2033,NH-79,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.1
+2034,NH-87,Tamil Nadu,RO-Tamilnadu,DE(NH)-Virudhunagar,,,0.08
+2035,NH-44,Tamil Nadu,RO-Madurai,PIU-Madurai,yes,N/02011/07001/TN,0.1
+2036,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,,,1.7
+2037,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,yes,N/04014/07001/MH - RCW,0.3
+2038,NH-161,Maharashtra,RO-Nagpur,PIU-Washim,no,,2.78
+2039,NH-32,Tamil Nadu,RO-Madurai,PIU-Tuticorin,,,18.03
+2040,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,0.1
+2041,NH-31,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.1
+2042,NH-19,Uttar Pradesh,RO-UP East,PIU-Prayagraj,yes,,0.1
+2043,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,,,1.05
+2044,NH-183,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,0.1
+2045,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,,,3.45
+2046,NH-161,Maharashtra,RO-Nagpur,PIU-Washim,no,,2.5
+2047,NH-70,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,1.5
+2048,NH-70,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.2
+2049,NH-527,Bihar,RO-Patna,PIU-Purnia,no,,4.2
+2050,NH-12,West Bengal,RO-Kolkata,PIU-Malda,,,0.1
+2051,NH-544,Tamil Nadu,RO-Chennai,PIU-Salem,,,0.0
+2052,NH-83,Tamil Nadu,RO-Madurai,PIU-Trichy,,,0.1
+2053,NH-383,Tamil Nadu,RO-Tamilnadu,DE(NH)-Madurai,,,1.1
+2054,NH-383,Tamil Nadu,RO-Tamilnadu,DE(NH)-Madurai,,,4.21
+2055,NH-338,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,10.39
+2056,NH-785,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,0.1
+2057,NH-34,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,0.1
+2058,NH-334D,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,30.01
+2059,NH-43,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,3.7
+2060,NH-334D,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,1.6
+2061,NH-334,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.2
+2062,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.4
+2063,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,2.2
+2064,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,2.67
+2065,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,no,,0.1
+2066,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,0.74
+2067,NH-44,Telangana,RO-Hyderabad,NH Division Hyderabad,,,9.57
+2068,NH-27,Uttar Pradesh,RO-UP West,PIU-Kanpur,,,0.1
+2069,NH-731,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,2.1
+2070,NH-161,Maharashtra,RO-Nagpur,PIU-Washim,yes,N/04005/05001/MH,0.1
+2071,NH-353D,Maharashtra,RO-Nagpur,PIU-Nagpur,no,,0.1
+2072,NH-67,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,,,0.05
+2073,NH-744A,Tamil Nadu,RO-Madurai,PIU-Madurai,,,0.22
+2074,NH-65,Telangana,RO-Hyderabad,NH Division Hyderabad,,,13.86
+2075,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,22.77
+2076,NE-3,Uttar Pradesh,RO-Delhi,PIU-Ghaziabad,no,,0.1
+2077,NH-765,Telangana,RO-Hyderabad,NH Division Hyderabad,,,4.0
+2078,NH-35,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,2.65
+2079,NH-27,Uttar Pradesh,RO-UP West,PIU-Jhansi,,,0.7
+2080,NH-731,Uttar Pradesh,RO-UP West,PIU-Bareilly,,,2.46
+2081,NH-49,Odisha,RO-Bhubaneswar,PIU-Sambalpur,,,3.6
+2082,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.1
+2083,NH-81,Tamil Nadu,RO-Tamilnadu,DE(NH)-Dindigul,,,17.9
+2084,NH-648,Tamil Nadu,RO-Tamilnadu,DE(NH)-Salem,,,6.51
+2085,NH-503,Himachal Pradesh,RO-Himachal Pradesh,EE NH Jogindernagar,yes,UPC yet to be create,8.0
+2086,NH-167,Telangana,RO-Hyderabad,NH Division Mahabubnagar,,,3.93
+2087,NH-167,Telangana,RO-Hyderabad,NH Division Mahabubnagar,,,1.53
+2088,NE-3,Uttar Pradesh,RO-Delhi,PIU-Ghaziabad,,,0.15
+2089,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.5
+2090,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,0.1
+2091,NH-77,Tamil Nadu,RO-Chennai,PIU-Viluppuram,,,1.96
+2092,NH-44,Tamil Nadu,RO-Madurai,PIU-Madurai,yes,N/02012/03003/TN,0.1
+2093,NH-46,Madhya Pradesh,RO-Bhopal,PIU-Harda,,,0.9
+2094,NH-744,Tamil Nadu,RO-Madurai,PIU-Madurai,,,0.01
+2095,NH-744,Tamil Nadu,RO-Madurai,PIU-Madurai,yes,N/05009/01002/TN,2.73
+2096,NH-744,Tamil Nadu,RO-Madurai,PIU-Nagarcoil,,,2.65
+2097,NH-34,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,0.2
+2098,NH-307,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,0.1
+2099,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,0.1
+2100,NH-9,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,0.1
+2101,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.08
+2102,NH-31,Uttar Pradesh,RO-UP West,PIU-Kanpur,,,2.83
+2103,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02003/MH,2.4
+2104,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,3.8
+2105,NH-731,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,3.3
+2106,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,0.2
+2107,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,0.1
+2108,NH-744,Tamil Nadu,RO-Madurai,PIU-Madurai,yes,N/05009/01002/TN,0.1
+2109,NH-183,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,0.04
+2110,NH-27,Bihar,RO-Kolkata,PIU-Jalpaiguri,,,0.16
+2111,NH-335,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,4.0
+2112,NH-340C,Andhra Pradesh,RO-Vijayawada,PIU-Kurnool,yes,N/08069/01004/AP,2.3
+2113,NH-39,Uttar Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.2
+2114,NH-31,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.1
+2115,NH-509,Uttar Pradesh,RO-UP West,PIU-Agra,,,1.33
+2116,NH-24,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.1
+2117,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,0.62
+2118,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,0.34
+2119,NH-527D,Bihar,RO-Patna,PIU-Motihari,,,0.02
+2120,NH-122,Bihar,RO-Patna,PIU-Darbhanga,,,0.1
+2121,NH-227J,Bihar,RO-Patna,PIU-Supaul,,,5.66
+2122,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,,,0.4
+2123,NH-20,Jharkhand,RO-Ranchi,PIU-Hazaribagh,,,0.1
+2124,NH-31,Bihar,RO-UP East,PIU-Azamgarh,,,0.13
+2125,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,4.2
+2126,NH-927,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,0.32
+2127,NH-27,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.12
+2128,NH-18,West Bengal,RO-Kolkata,PIU-Purulia,,,0.3
+2129,NH-12,West Bengal,RO-Kolkata,PIU-Malda,,,0.1
+2130,NH-12,West Bengal,RO-Kolkata,PIU-Kolkata,,,0.71
+2131,NH-12,West Bengal,RO-Kolkata,PIU-Kolkata,,,0.5
+2132,NH-12,West Bengal,RO-Kolkata,PIU-Kolkata,,,0.2
+2133,NH-128,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.2
+2134,NH-48,Karnataka,RO-Bengaluru,PIU-Mysuru,pending,,16.79
+2135,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,0.1
+2136,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,1.5
+2137,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,8.300000000000002
+2138,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,no,,26.22
+2139,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,no,,0.2
+2140,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,no,,0.5
+2141,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,2.78
+2142,NH-365,Telangana,RO-Hyderabad,PIU-Warangal,,,0.3
+2143,NH-731,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,0.42
+2144,NH-31,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.02
+2145,NH-18,West Bengal,RO-Kolkata,PIU-Purulia,,,0.2
+2146,NH-18,West Bengal,RO-Kolkata,PIU-Purulia,,,2.9
+2147,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,yes,N/04014/07001/MH - RCW,1.8
+2148,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,,,0.1
+2149,NH-44,Punjab,RO-Chandigarh,PIU-Jalandhar,yes,N/02007/06046/PB,0.0
+2150,NH-53,Odisha,RO-Bhubaneswar,PIU-Sambalpur,,,0.01
+2151,NH-5,Punjab,RO-Chandigarh,PIU-Chandigarh,no,,9.0
+2152,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,2.04
+2153,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,1.1
+2154,NH-31,Uttar Pradesh,RO-UP East,PIU-Azamgarh,,,0.1
+2155,NH-731,Uttar Pradesh,RO-UP West,PIU-Bareilly,,,1.136121
+2156,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,1.3
+2157,NH-70,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.3
+2158,NH-70,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.5
+2159,NH-48,Rajasthan,RO-Jaipur,PIU-Udaipur,no,,0.1
+2160,NH-32,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,0.79
+2161,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,22.02
+2162,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,4.64
+2163,NH-161,Maharashtra,RO-Nagpur,PIU-Washim,no,,0.4
+2164,NH-527,Bihar,RO-Patna,PIU-Purnia,no,,0.1
+2165,NH-744A,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,0.38
+2166,NH-744A,Tamil Nadu,RO-Madurai,PIU-Madurai,no,,0.1
+2167,NH-65,Telangana,RO-Hyderabad,NH Division Hyderabad,,,11.08
+2168,NH-765,Telangana,RO-Hyderabad,NH Division Kalwakurthy,,,21.85
+2169,NH-765,Telangana,RO-Hyderabad,NH Division Kalwakurthy,,,40.6
+2170,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,yes,N/05027/01001/TS,0.2
+2171,NH-30,Uttar Pradesh,RO-UP East,PIU-Prayagraj,pending,,11.29
+2172,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.08
+2173,NH-31,Uttar Pradesh,RO-UP West,PIU-Kanpur,,,0.1
+2174,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,0.1
+2175,NH-49,Odisha,RO-Bhubaneswar,PIU-Sambalpur,,,0.3
+2176,NH-561A,Maharashtra,RO-Mumbai,PIU-Ahmednagar,,,0.2
+2177,NE-3,Uttar Pradesh,RO-Delhi,PIU-Ghaziabad,yes,N/01007/02001/DL,0.1
+2178,NH-922,Bihar,RO-Patna,PIU-Patna,,,0.1
+2179,NH-9,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.29
+2180,NH-27,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.1
+2181,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,2.53
+2182,NH-128A,Uttar Pradesh,RO-UP East,PIU-Azamgarh,,,1.0
+2183,NH-765,Telangana,RO-Hyderabad,NH Division Kalwakurthy,,,19.75
+2184,NH-365BB,Telangana,RO-Hyderabad,PIU-Khammam-2,,,0.2
+2185,NH-365BB,Telangana,RO-Hyderabad,PIU-Khammam-2,,,0.02
+2186,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,1.88
+2187,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,0.1
+2188,NH-516C,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,0.1
+2189,NH-731,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,0.1
+2190,NH-34,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,0.1
+2191,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,,,39.67
+2192,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,,,32.22
+2193,NH-330A,Uttar Pradesh,RO-UP East,PIU-Raebareli,yes,N/08023/03001/UP,0.2
+2194,NH-34,Uttar Pradesh,RO-Dehradun,PIU-Najibabad,,,7.4
+2195,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,4.0
+2196,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04004/14001/MH,0.57
+2197,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,yes,N/04014/02001/MH,0.1
+2198,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,1.85
+2199,NH-17,West Bengal,RO-Kolkata,PIU-Jalpaiguri,,,0.09
+2200,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,no,,11.72
+2201,NH-12,West Bengal,RO-Kolkata,PIU-Malda,,,0.2
+2202,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,0.8
+2203,NH-7,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,1.77
+2204,NH-307,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,0.2
+2205,NH-30,Uttarakhand,RO-UP West,PIU-Bareilly,yes,N/08032/03001/UK,0.5
+2206,NH-344G,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,1.1
+2207,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.07
+2208,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,,,3.15
+2209,NH-365BG,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,4.75
+2210,NH-334,Uttarakhand,RO-Dehradun,PIU-Roorkee,,,0.0
+2211,NH-7,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,28.11
+2212,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,no,,9.3
+2213,NH-128B,Uttar Pradesh,RO-UP East,PIU-Azamgarh,,,1.7
+2214,NH-19,Uttar Pradesh,RO-UP East,PIU-Prayagraj,yes,,0.1
+2215,NH-927,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,0.4
+2216,NH-335,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.6
+2217,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,0.47
+2218,NH-35,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,3.21
+2219,NH-27,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,0.3
+2220,NH-19,Uttar Pradesh,RO-UP West,PIU-Agra,,,0.5
+2221,NH-131G,Bihar,RO-Patna,PIU-Chhapra,yes,N/05005/07003/BR,0.93
+2222,NH-27,Bihar,RO-Patna,PIU-Darbhanga,,,0.21
+2223,NH-33,Bihar,RO-Bihar,"NH Division No. 2, Biharsharif",,,1.64
+2224,NH-31,Uttar Pradesh,RO-UP East,PIU-Azamgarh,,,0.3
+2225,NH-139W,Bihar,RO-Patna,PIU-Motihari,no,,33.13
+2226,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.3
+2227,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.17
+2228,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,3.96
+2229,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,3.49426
+2230,NH-19,Uttar Pradesh,RO-UP East,PIU-Prayagraj,,,0.06
+2231,NH-34,Uttar Pradesh,RO-UP West,PIU-Kanpur,,,2.38
+2232,NH-34,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,0.02
+2233,NH-34,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,1.92
+2234,NH-148A,Delhi,RO-Delhi,PIU-Delhi,,,0.85
+2235,NH-148M,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,11.7
+2236,NH-34,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,0.1
+2237,NH-334B,Uttar Pradesh,RO-Delhi,PIU-Baghpat,yes,N/05043/02002/UP,0.1
+2238,NH-709B,Uttar Pradesh,RO-Delhi,PIU-Baghpat,yes,N/04040/02001/UP,0.1
+2239,NH-335,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.89
+2240,NH-12,West Bengal,RO-Kolkata,PIU-Malda,,,0.1
+2241,NH-148M,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,11.23
+2242,NH-334D,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,0.41
+2243,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,0.03
+2244,NH-334B,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,0.09
+2245,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.89
+2246,NH-927A,Madhya Pradesh,RO-Bhopal,PIU-Ratlam,no,,31.41
+2247,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,,,0.0
+2248,NH-340C,Andhra Pradesh,RO-Vijayawada,PIU-Kurnool,yes,N/08069/01004/AP,6.6
+2249,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,yes,N/02004/28001/AP,0.1
+2250,NH-352R,Haryana,RO-Chandigarh,PIU-Sonipat,,,22.37
+2251,NH-907G,Haryana,RO-Chandigarh,PIU-Chandigarh,no,,17.81
+2252,NH-148B,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,3.44
+2253,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,,,0.27
+2254,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,yes,N/04014/07001/MH - RCW,0.1
+2255,NH-16,West Bengal,RO-Kolkata,PIU-Kharagpur,,,0.1
+2256,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,yes,,0.5
+2257,NH-751D,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,26.49
+2258,NH-751D,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,28.68
+2259,NH-52,Haryana,RO-Chandigarh,PIU-Hisar,,,0.1
+2260,NH-154,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,11.79
+2261,NH-103,Himachal Pradesh,RO-Shimla,PIU-Hamirpur,no,,11.54
+2262,NH-43,Jharkhand,RO-Ranchi,PIU-Gumla,,,12.84
+2263,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.35
+2264,NH-161,Maharashtra,RO-Nagpur,PIU-Washim,yes,N/04005/05001/MH,0.1
+2265,NH-70,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.1
+2266,NH-70,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,0.5
+2267,NH-161,Maharashtra,RO-Nagpur,PIU-Washim,yes,N/04005/05001/MH,0.1
+2268,NH-53,Odisha,RO-Bhubaneswar,PIU-Chandikhole,,,1.06
+2269,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,0.16
+2270,NH-43,Jharkhand,RO-Ranchi,PIU-Gumla,,,10.23
+2271,NH-18,Jharkhand,RO-Ranchi,PIU-Dhanbad,no,,18.3
+2272,NH-33,Jharkhand,RO-Ranchi,PIU-Sahibganj,no,,0.8
+2273,NH-33,Jharkhand,RO-Ranchi,PIU-Sahibganj,no,,6.41
+2274,NH-20,Jharkhand,RO-Ranchi,PIU-Hazaribagh,,,0.3
+2275,NH-648,Karnataka,RO-Bengaluru,PIU-Bangalore,no,,11.11
+2276,NH-75,Karnataka,RO-Bengaluru,PIU-Hassan,,,0.1
+2277,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,1.5
+2278,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,1.98
+2279,NH-48,Karnataka,RO-Bengaluru,PIU-Tumakuru,,,0.1
+2280,NH-19,Uttar Pradesh,RO-UP West,PIU-Kanpur,,,0.01
+2281,NH-27,Uttar Pradesh,RO-UP West,PIU-Kanpur,,,0.19
+2282,NH-39,Uttar Pradesh,RO-Jabalpur,PIU-Chhattarpur,,,0.1
+2283,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,,,0.02
+2284,NH-83,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,0.1
+2285,NH-734,Uttar Pradesh,RO-Dehradun,PIU-Najibabad,no,,0.2
+2286,NH-71,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,no,,0.19
+2287,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,1.5
+2288,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,,,0.1
+2289,NH-34,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,0.1
+2290,NH-516C,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,0.7
+2291,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04004/14001/MH,0.1
+2292,NH-365BB,Telangana,RO-Hyderabad,PIU-Khammam-2,,,3.33
+2293,NH-167,Telangana,RO-Hyderabad,PIU-Mahabubnagar,no,,2.79
+2294,NH-167,Telangana,RO-Hyderabad,NH Division Mahabubnagar,,,8.83
+2295,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,no,,0.4
+2296,NH-53,Odisha,RO-Odisha,EE-NH Division Deogarh,,,11.41
+2297,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,3.1
+2298,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,5.9
+2299,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,0.1
+2300,NH-50,Karnataka,RO-Karnataka,NH Division Kalbugi,,,30.5
+2301,NH-50,Karnataka,RO-Karnataka,NH Division Kalbugi,,,46.33
+2302,NH-50,Maharashtra,RO-Karnataka,NH Division Kalbugi,,,2.78
+2303,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,2.9
+2304,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,8.36
+2305,NH-63,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/05027/01001/TS,4.150000000000001
+2306,NH-163,Telangana,RO-Hyderabad,PIU-Hyderabad,,,0.12
+2307,NH-458,Rajasthan,RO-Jaipur,PIU-Ajmer,,,1.76
+2308,NH-31,Uttar Pradesh,RO-UP East,PIU-Raebareli,pending,,1.5
+2309,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02003/MH,1.03
+2310,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,2.6
+2311,NH-734,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.1
+2312,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,0.3
+2313,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Kannur,,,0.01
+2314,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,24.99
+2315,NH-147E,Madhya Pradesh,RO-Bhopal,PIU-Indore,no,,35.32
+2316,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Jabalpur,,,0.3
+2317,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Jabalpur,,,0.9
+2318,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,,,4.1
+2319,NH-754A,Rajasthan,RO-Jaipur,PIU-Jodhpur,no,,10.87
+2320,NH-48,Rajasthan,RO-Jaipur,PIU-Udaipur,,,0.06
+2321,NH-32,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,0.5
+2322,NH-19,West Bengal,RO-Kolkata,PIU-Durgapur,,,0.1
+2323,NH-22,Bihar,RO-Patna,PIU-Patna,,,0.47
+2324,NH-340C,Andhra Pradesh,RO-Vijayawada,PIU-Kurnool,yes,N/08069/01004/AP,0.6
+2325,NH-87,Tamil Nadu,RO-Tamilnadu,DE(NH)-Virudhunagar,,,1.6
+2326,NH-363,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/08002/04001/TS,0.29
+2327,NH-309,Uttarakhand,RO-Uttarakhand,NH PWD Dhumakot,,,21.21
+2328,NH-34,Uttar Pradesh,RO-Dehradun,PIU-Najibabad,,,5.4
+2329,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,3.8
+2330,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.0
+2331,NH-530B,Uttar Pradesh,RO-UP West,PIU-Badaun,,,0.1
+2332,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,4.7
+2333,NH-731,Uttar Pradesh,RO-UP West,PIU-Bareilly,,,1.4
+2334,NH-527,Bihar,RO-Patna,PIU-Purnia,no,,0.1
+2335,NH-527,Bihar,RO-Patna,PIU-Purnia,no,,0.1
+2336,NH-33,Bihar,RO-Bihar,NH Division Bhagalpur,no,,34.91
+2337,NH-227J,Bihar,RO-Patna,PIU-Supaul,,,7.4
+2338,NH-334,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.0
+2339,NH-709A,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.21
+2340,NH-753BB,Maharashtra,RO-Nagpur,PIU-Dhule,,,32.36
+2341,NH-60,Maharashtra,RO-Mumbai,PIU-Pune,no,,7.37
+2342,NH-52,Rajasthan,RO-Jaipur,PIU-Kota,yes,N/05003/02001/RJ,0.1
+2343,NH-561A,Maharashtra,RO-Mumbai,PIU-Ahmednagar,,,0.1
+2344,NH-754AD,Punjab,RO-Chandigarh,PIU-Ludhiana,yes,N/04011/04003/PB,0.1
+2345,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,0.3
+2346,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,no,,0.1
+2347,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,no,,0.3
+2348,NH-716B,Andhra Pradesh,RO-Vijayawada,PIU-Chittoor,,,0.1
+2349,NH-365BG,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,0.28
+2350,NH-752D,Madhya Pradesh,RO-Bhopal,PIU-Ujjain,no,,0.1
+2351,NH-516C,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,9.83
+2352,NH-516C,Andhra Pradesh,RO-Vijayawada,PIU-Visakhapatnam,,,3.4
+2353,NH-503A,Punjab,RO-Chandigarh,PIU-Jalandhar,yes,N/08059/02002/PB,21.81
+2354,NH-143,Odisha,RO-Bhubaneswar,PIU-Keonjhar,,,0.16
+2355,NH-166,Maharashtra,RO-Mumbai,PIU-Solapur,,,0.1
+2356,NH-848,Maharashtra,RO-Mumbai,PIU-Thane,,,0.4
+2357,NH-753F,Maharashtra,RO-Mumbai,PIU-Ahmednagar,,,10.86
+2358,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,0.5
+2359,NH-52,Rajasthan,RO-Jaipur,PIU-Kota,no,,16.66
+2360,NH-131G,Bihar,RO-Patna,PIU-Chhapra,yes,N/05005/07003/BR,3.27
+2361,NH-139W,Bihar,RO-Patna,PIU-Motihari,,,15.9
+2362,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,2.69
+2363,NH-53,Odisha,RO-Odisha,EE-NH Division Pallahara,,,34.59
+2364,NH-316A,Odisha,RO-Bhubaneswar,PIU-Bhubaneshwar,,,26.21
+2365,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,,,2.76
+2366,NH-53,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04009/02006/MH,0.1
+2367,NH-205K,Punjab,RO-Chandigarh,PIU-Chandigarh,no,,0.92
+2368,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,,,3.0
+2369,NH-52,Rajasthan,RO-Jaipur,PIU-Jaipur,,,9.34
+2370,NH-48,Rajasthan,RO-Jaipur,PIU-Udaipur,no,,5.54
+2371,NH-21,Rajasthan,RO-Jaipur,PIU-Dausa,,,2.55
+2372,NH-353I,Maharashtra,RO-Nagpur,PIU-Nagpur,yes,N/02008/23001/MH,0.1
+2373,NH-22,Bihar,RO-Patna,PIU-Patna,,,0.1
+2374,NH-22,Bihar,RO-Patna,PIU-Gaya,,,0.65
+2375,NH-32,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,0.5
+2376,NH-44,Delhi,RO-Delhi,CMU-Mathura,no,,0.2
+2377,NH-48,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,no,,3.38
+2378,NH-751DD,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,19.35
+2379,NH-48,Rajasthan,RO-Jaipur,PIU-Udaipur,no,,1.18
+2380,NH-365BB,Telangana,RO-Hyderabad,PIU-Khammam-I,,,25.87
+2381,NH-365BB,Telangana,RO-Hyderabad,NH Division Khammam,,,30.97
+2382,NH-365BB,Telangana,RO-Hyderabad,PIU-Khammam-I,,,5.6
+2383,NH-363,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/08002/04001/TS,1.73
+2384,NH-309,Uttarakhand,RO-Uttarakhand,NH PWD Dhumakot,,,71.54
+2385,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,,,37.44
+2386,NH-309,Uttarakhand,RO-Uttarakhand,NH PWD Dhumakot,no,,14.82
+2387,NH-148M,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,13.33
+2388,NH-47,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,3.49
+2389,NH-9,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.0
+2390,NH-30,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.1
+2391,NH-34,Uttar Pradesh,RO-Dehradun,PIU-Najibabad,no,,0.14
+2392,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.72
+2393,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,1.97
+2394,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.1
+2395,NH-709B,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,0.7
+2396,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,no,,2.89
+2397,NH-716A,Tamil Nadu,RO-Chennai,PIU-Chennai2,,,0.0
+2398,NH-365BB,Telangana,RO-Hyderabad,PIU-Khammam-I,,,30.48
+2399,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,3.8
+2400,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,6.74
+2401,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,1.46
+2402,NH-47,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,0.4
+2403,NH-363,Telangana,RO-Hyderabad,PIU-Mancherial,yes,N/08002/03002/TS,0.1
+2404,NH-716,Andhra Pradesh,RO-Vijayawada,PIU-Tirupati,,,9.9
+2405,NH-163,Telangana,RO-Hyderabad,PIU-Hyderabad,,,50.14
+2406,NH-334B,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,7.27
+2407,NH-216A,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,yes,N/02004/20003/AP,0.1
+2408,NH-148A,Delhi,RO-Delhi,PIU-Delhi,,,1.17
+2409,NH-148NA,Haryana,RO-Delhi,CMU-Mathura,no,,0.3
+2410,NH-334B,Haryana,RO-Chandigarh,PIU-Sonipat,,,14.33
+2411,NH-20,Jharkhand,RO-Ranchi,PIU-Hazaribagh,,,3.1
+2412,NH-275,Karnataka,RO-Bengaluru,PIU-Mysuru,,,0.61
+2413,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,0.1
+2414,NH-934,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,1.92
+2415,NH-965D,Maharashtra,RO-Mumbai,PIU-Pune,,,33.59
+2416,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,no,,0.7
+2417,NH-7,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,4.03
+2418,NH-33,Jharkhand,RO-Ranchi,PIU-Sahibganj,no,,0.38
+2419,NH-50,Karnataka,RO-Karnataka,NH Division Kalbugi,,,21.19
+2420,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,0.1
+2421,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,0.2
+2422,NH-327C,West Bengal,RO-Patna,PIU-Purnia,no,,2.03
+2423,NH-316A,Odisha,RO-Bhubaneswar,PIU-Bhubaneshwar,,,13.83
+2424,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,2.82
+2425,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,0.9
+2426,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,,,0.26
+2427,NH-48,Rajasthan,RO-Jaipur,PIU-Udaipur,no,,0.1
+2428,NH-32,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,3.7
+2429,NH-32,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,9.27
+2430,NH-48,Karnataka,RO-Bengaluru,PIU-Bangalore,no,,8.130000000000004
+2431,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,0.1
+2432,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,3.19
+2433,NH-319D,Uttar Pradesh,RO-UP East,PIU-Raebareli,no,,2.2
+2434,NH-24,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.2
+2435,NH-27,Bihar,RO-Patna,PIU-Darbhanga,,,0.12
+2436,NH-48,Maharashtra,RO-Mumbai,PIU-Pune,yes,N/02002/01001/MH,0.01
+2437,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.4
+2438,NH-151A,Gujarat,RO-Gandhinagar,PIU-Rajkot,pending,,24.1
+2439,NH-33,Bihar,RO-Bihar,"NH Division No. 2, Biharsharif",no,,8.43
+2440,NH-344M,Delhi,RO-Delhi,PIU-Dwarka,yes,N/02001/19003/DL,0.1
+2441,NH-60,Maharashtra,RO-Mumbai,PIU-Pune,no,,2.38
+2442,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,0.4
+2443,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,28.7
+2444,NH-60,Maharashtra,RO-Mumbai,PIU-Pune,no,,0.1
+2445,NH-709A,Uttar Pradesh,RO-Delhi,PIU-Baghpat,yes,N/05026/04001/UP,0.1
+2446,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,0.7
+2447,NH-19,Uttar Pradesh,RO-UP East,PIU-Prayagraj,yes,,0.2
+2448,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,45.99
+2449,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Jabalpur,,,1.4
+2450,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Jabalpur,,,0.1
+2451,NH-146,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,6.03
+2452,NH-543K,Madhya Pradesh,RO-Jabalpur,PIU-Chhindwara,,,51.13
+2453,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,2.1
+2454,NH-709A,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,2.91
+2455,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,11.09
+2456,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,1.81
+2457,NE-3,Uttar Pradesh,RO-Delhi,PIU-Ghaziabad,,,0.0
+2458,NH-48,Gujarat,RO-Gandhinagar,PIU-Palanpur,,,0.03
+2459,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,17.2
+2460,NH-147D,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,17.87
+2461,NH-43,Jharkhand,RO-Ranchi,PIU-Ranchi,no,,11.45
+2462,NE-4,Gujarat,RO-Gandhinagar,PIU-Surat,yes,N/01001/11006/GJ,0.2
+2463,NH-56,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,0.49
+2464,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,no,,3.1
+2465,NE-6,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,1.5
+2466,NH-344G,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,0.3
+2467,NE-6,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,10.07
+2468,NH-230,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,5.05
+2469,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,5.76
+2470,NH-35,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,23.07
+2471,NH-530B,Uttar Pradesh,RO-UP West,PIU-Badaun,,,0.6
+2472,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,2.3
+2473,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.2
+2474,NH-709A,Haryana,RO-Chandigarh,PIU-Sonipat,,,14.2
+2475,NH-152G,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,8.43
+2476,NE-5,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.1
+2477,NH-148B,Haryana,RO-Delhi,PIU-Rewari,no,,9.6
+2478,NH-709AD,Haryana,RO-Chandigarh,PIU-Sonipat,,,0.1
+2479,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,yes,N/08071/04006/HP,5.41
+2480,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,9.53
+2481,NH-135BG,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,3.04
+2482,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,3.76
+2483,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,,,0.23
+2484,NH-48,Gujarat,RO-Gandhinagar,PIU-Palanpur,,,0.03
+2485,NH-544D,Andhra Pradesh,RO-Vijayawada,PIU-Amaravati,no,,32.8
+2486,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,1.6
+2487,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,1.5
+2488,NH-748,Karnataka,RO-Bengaluru,PIU-Dharwad,no,,5.93
+2489,NH-67,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,,5.88
+2490,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,0.79925
+2491,NH-753AB,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,25.79
+2492,NH-327,Bihar,RO-Bihar,"NH Division, Purnea",,,1.75
+2493,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.3
+2494,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.1
+2495,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.1
+2496,NH-16,Andhra Pradesh,RO-Vijayawada,PIU-Vijayawada,yes,N/02004/24001/AP,0.83
+2497,NH-927A,Madhya Pradesh,RO-Bhopal,PIU-Ratlam,no,,5.75
+2498,NH-965,Maharashtra,RO-Mumbai,PIU-Pune,no,,6.71
+2499,NH-709,Rajasthan,RO-Jaipur,PIU-Jaipur,,,5.85
+2500,NH-30,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,8.61
+2501,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Jabalpur,,,0.3
+2502,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Jabalpur,,,0.5
+2503,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,35.92
+2504,NH-43,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,0.24
+2505,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,0.1
+2506,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,0.01
+2507,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,1.1
+2508,NH-160A,Maharashtra,RO-Mumbai,PIU-Nashik,,,0.0
+2509,NH-22,Bihar,RO-Patna,PIU-Gaya,yes,N/05014/01001/BR,16.94
+2510,NH-131G,Bihar,RO-Patna,PIU-Chhapra,yes,N/05005/07003/BR,4.91
+2511,NH-33,Bihar,RO-Bihar,"NH Division No. 2, Biharsharif",,,0.1
+2512,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,0.1
+2513,NH-47,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,13.33
+2514,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,no,,10.44
+2515,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.2
+2516,NH-327C,West Bengal,RO-Patna,PIU-Purnia,no,,1.91
+2517,NH-131G,Bihar,RO-Patna,PIU-Chhapra,yes,N/05005/07003/BR,2.14
+2518,NH-131G,Bihar,RO-Patna,PIU-Chhapra,no,,1.7
+2519,NH-149,Odisha,RO-Bhubaneswar,PIU-Dhenkanal,,,28.78
+2520,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,2.7
+2521,NH-67,Andhra Pradesh,RO-Vijayawada,PIU-Nellore,,,0.1
+2522,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,0.9
+2523,NE-5,Jammu and Kashmir,RO-Jammu,PIU-Jammu,,,1.5
+2524,NH-516F,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,0.1
+2525,NH-61,Maharashtra,RO-Mumbai,PIU-Pune,,,11.85
+2526,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,0.2
+2527,NH-753BB,Maharashtra,RO-Nagpur,PIU-Dhule,,,53.04
+2528,NH-753AB,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,8.08
+2529,NH-332,Puducherry,RO-Chennai,PIU-Puducherry,no,,9.49
+2530,NH-32,Puducherry,RO-Chennai,PIU-Puducherry,no,,4.76
+2531,NH-703,Punjab,RO-Chandigarh,PIU-Jalandhar,no,,4.09
+2532,NH-148AE,Delhi,RO-Delhi,PIU-Dwarka,yes,N/02001/19007/DL,0.1
+2533,NH-47,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,no,,7.38
+2534,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,11.37
+2535,NH-509,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,0.12
+2536,NH-709AD,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,0.3
+2537,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,,,1.24
+2538,NH-911,Rajasthan,RO-Jaipur,PIU-Bikaner,,,0.28
+2539,NH-158,Rajasthan,RO-Jaipur,PIU-Ajmer,,,4.18
+2540,NH-48,Rajasthan,RO-Jaipur,PIU-Udaipur,no,,17.94
+2541,NE-8,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,2.46
+2542,NH-751,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,0.03
+2543,NH-56,Gujarat,RO-Gandhinagar,PIU-Ektanagar,,,0.39
+2544,NH-9,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/05025/02002/PB,0.1
+2545,NH-144,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,yes,N/01004/01021/JK,0.1
+2546,NH-148B,Rajasthan,RO-Delhi,PIU-Sohna,,,10.44
+2547,NH-754A,Rajasthan,RO-Jaipur,PIU-Hanumangarh,yes,N/04003/10006/RJ,7.55
+2548,NH-754A,Rajasthan,RO-Jaipur,PIU-Hanumangarh,yes,N/04003/10009/RJ,0.1
+2549,NH-753BE,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,1.19
+2550,NH-754A,Rajasthan,RO-Jaipur,PIU-Jodhpur,,,0.2
+2551,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,1.03
+2552,NH-166,Maharashtra,RO-Mumbai,PIU-Kolhapur,,,1.55
+2553,NE-4,Gujarat,RO-Gandhinagar,PIU-Surat,pending,,0.7
+2554,NH-347C,Maharashtra,RO-Nagpur,PIU-Jalgaon,,,23.73
+2555,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,no,,6.0
+2556,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,1.6
+2557,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,no,,2.68
+2558,NH-179D,Tamil Nadu,RO-Chennai,PIU-Chennai2,,,6.55
+2559,NH-744A,Tamil Nadu,RO-Madurai,PIU-Madurai,pending,,17.47
+2560,NH-36,Tamil Nadu,RO-Madurai,PIU-Karaikudi,no,,13.48
+2561,NH-716,Tamil Nadu,RO-Chennai,PIU-Chennai2,,,3.84
+2562,NH-83,Tamil Nadu,RO-Madurai,PIU-Trichy,,,10.71
+2563,NH-709A,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,8.61
+2564,NH-5,Himachal Pradesh,RO-Shimla,PIU-Shimla,yes,N/08071/04006/HP,8.75
+2565,NH-161,Maharashtra,RO-Nagpur,PIU-Washim,yes,N/04005/06001/MH,0.01
+2566,NH-347BG,Madhya Pradesh,RO-Bhopal,PIU-Indore,,,0.1
+2567,NH-38,Tamil Nadu,RO-Madurai,PIU-Tuticorin,,,4.14
+2568,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,6.27
+2569,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,25.35
+2570,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,22.78
+2571,NH-154,Himachal Pradesh,RO-Shimla,PIU-Mandi,no,,7.3
+2572,NH-39,Jharkhand,RO-Ranchi,PIU-Daltonganj,,,30.47
+2573,NH-43,Jharkhand,RO-Ranchi,PIU-Gumla,,,4.2
+2574,NH-163,Telangana,RO-Hyderabad,PIU-Hyderabad,,,3.95
+2575,NE-5A,Punjab,RO-Chandigarh,PIU-Amritsar,,,0.0
+2576,NH-130CD,Andhra Pradesh,RO-Vijayawada,PIU-Vizianagram,yes,N/04018/05002/AP,0.01
+2577,NH-7,Punjab,RO-Chandigarh,PIU-Chandigarh,no,,0.1
+2578,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,yes,N/09023/01001/MH,0.1
+2579,NH-52,Maharashtra,RO-Nagpur,PIU-Dhule,,,0.01
+2580,NH-316A,Odisha,RO-Bhubaneswar,PIU-Bhubaneshwar,,,40.9
+2581,NH-75,Karnataka,RO-Bengaluru,PIU-Hassan,yes,,7.32
+2582,NH-44,Karnataka,RO-Bengaluru,PIU-Bangalore,no,,13.77
+2583,NH-48,Karnataka,RO-Bengaluru,PIU-Dharwad,yes,N/02002/13001/KA,0.1
+2584,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,0.1
+2585,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,0.1
+2586,NH-149,Odisha,RO-Bhubaneswar,PIU-Dhenkanal,,,6.19
+2587,NH-332A,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,4.42
+2588,NH-32,Puducherry,RO-Chennai,PIU-Puducherry,no,,8.970000000000002
+2589,NH-354,Punjab,RO-Chandigarh,PIU-Amritsar,yes,N/07001/03002/PB,0.1
+2590,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/06008/05001/PB,0.01
+2591,NH-152A,Punjab,RO-Chandigarh,PIU-Ambala,yes,N/05050/02001/PB,12.19
+2592,NH-205K,Punjab,RO-Chandigarh,PIU-Chandigarh,yes,N/06022/04003/PB,0.45
+2593,NE-5,Punjab,RO-Chandigarh,PIU-Ludhiana Expressway,,,0.1
+2594,NH-9,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,3.03
+2595,NH-9,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,4.7
+2596,NH-75,Karnataka,RO-Bengaluru,PIU-Hassan,,,2.65
+2597,NH-75,Karnataka,RO-Bengaluru,PIU-Hassan,,,0.07
+2598,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,0.1
+2599,NH-948A,Karnataka,RO-Bengaluru,PIU-Bangalore Expressway,,,1.45
+2600,NH-4,Karnataka,RO-Bengaluru,PIU-Dharwad,no,,5.66
+2601,NH-66,Kerala,RO-Thiruvananthapuram,PIU-Kannur,,,0.04
+2602,NH-39,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,1.13
+2603,NH-754A,Punjab,RO-Chandigarh,PIU-Bathinda,no,,0.1
+2604,NE-5A,Punjab,RO-Chandigarh,PIU-Amritsar,,,0.1
+2605,NE-5,Punjab,RO-Chandigarh,PIU-Ludhiana Expressway,,,0.1
+2606,NH-503A,Punjab,RO-Chandigarh,PIU-Jalandhar,yes,N/08059/02002/PB,2.43
+2607,NH-911,Rajasthan,RO-Jaipur,PIU-Bikaner,,,0.1
+2608,NH-25,Rajasthan,RO-Jaipur,PIU-Jaisalmer,,,68.42
+2609,NH-46,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,0.3
+2610,NH-34,Madhya Pradesh,RO-Jabalpur,PIU-Jabalpur,,,2.9
+2611,NH-43,Madhya Pradesh,RO-Madhya Pradesh,NH Division Sagar,,,111.5
+2612,NH-348,Maharashtra,RO-Mumbai,PIU-Panvel,,,0.1
+2613,NH-146,Madhya Pradesh,RO-Jabalpur,PIU-Sagar,,,1.4
+2614,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,3.37
+2615,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,no,,2.02
+2616,NH-44,Uttar Pradesh,RO-UP West,PIU-Jhansi,,,0.1
+2617,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,3.45
+2618,NH-346,Madhya Pradesh,RO-Bhopal,PIU-Vidisha,,,7.66
+2619,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,5.12
+2620,NH-128B,Uttar Pradesh,RO-UP East,PIU-Azamgarh,,,7.94
+2621,NH-27,Rajasthan,RO-Jaipur,PIU-Udaipur,yes,N/02001/08001/RJ,0.69
+2622,NH-158,Rajasthan,RO-Jaipur,PIU-Ajmer,,,22.9
+2623,NH-48,Rajasthan,RO-Jaipur,PIU-Udaipur,no,,4.71
+2624,NH-158,Rajasthan,RO-Jaipur,PIU-Ajmer,,,4.28
+2625,NH-158,Rajasthan,RO-Jaipur,PIU-Ajmer,,,0.92
+2626,NH-21,Rajasthan,RO-Jaipur,PIU-Dausa,,,0.1
+2627,NH-132B,Tamil Nadu,RO-Chennai,PIU-Kanchipuram,,,10.55
+2628,NH-731,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,20.69
+2629,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,0.04
+2630,NH-709B,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,0.19
+2631,NH-9,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,2.3
+2632,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,4.0
+2633,NH-930D,Maharashtra,RO-Nagpur,PIU-Chandrapur,no,,18.9
+2634,NH-361,Maharashtra,RO-Nagpur,PIU-Yavatmal,no,,70.41
+2635,NH-53,Maharashtra,RO-Maharashtra,NH Division Akola,no,,0.54
+2636,NE-6,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,6.1
+2637,NE-6,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,0.36
+2638,NH-344G,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,0.0
+2639,NH-334,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,2.38
+2640,NH-35,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,9.17
+2641,NH-166,Maharashtra,RO-Mumbai,PIU-Kolhapur,,,0.54
+2642,NH-744A,Tamil Nadu,RO-Madurai,PIU-Madurai,pending,,23.3
+2643,NH-383,Tamil Nadu,RO-Madurai,PIU-Madurai,,,26.0
+2644,NH-332,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,4.9
+2645,NH-38,Tamil Nadu,RO-Madurai,PIU-Trichy,no,,12.172323
+2646,NH-32,Tamil Nadu,RO-Chennai,PIU-Chengalpattu,,,0.0
+2647,NH-81,Tamil Nadu,RO-Madurai,PIU-Trichy,,,18.47
+2648,NH-332,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,1.25
+2649,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,1.56
+2650,NH-35,Uttar Pradesh,RO-UP East,PIU-Prayagraj,,,2.61
+2651,NH-24,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.1
+2652,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.32
+2653,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,1.54
+2654,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,28.17
+2655,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,3.47
+2656,NH-163,Telangana,RO-Hyderabad,PIU-Hyderabad,,,4.69
+2657,NH-163,Telangana,RO-Hyderabad,PIU-Hyderabad,,,6.09
+2658,NH-60,Maharashtra,RO-Mumbai,PIU-Pune,no,,4.8
+2659,NH-348,Maharashtra,RO-Mumbai,PIU-Panvel,,,4.85
+2660,NH-965D,Maharashtra,RO-Mumbai,PIU-Pune,,,12.37
+2661,NH-965,Maharashtra,RO-Mumbai,PIU-Pune,no,,23.13
+2662,NH-327C,West Bengal,RO-Patna,PIU-Purnia,no,,6.1
+2663,NH-327C,West Bengal,RO-Patna,PIU-Purnia,no,,1.84
+2664,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.1
+2665,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,no,,0.1
+2666,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.1
+2667,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,1.27
+2668,NE-5,Jammu and Kashmir,RO-Jammu,PIU-Jammu,,,0.1
+2669,NH-119D,Bihar,RO-Patna,PIU-Aurangabad_BR,,,15.11
+2670,NH-60,Maharashtra,RO-Mumbai,PIU-Pune,no,,5.77
+2671,NH-61,Maharashtra,RO-Maharashtra,NH Division Pune,0,,54.6
+2672,NH-149B,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,1.87
+2673,NH-965G,Maharashtra,RO-Mumbai,PIU-Pandharpur,yes,N/09022/02001/MH,0.2
+2674,NH-753AB,Maharashtra,RO-Nagpur,PIU-Aurangabad,no,,28.0
+2675,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,0.4
+2676,NH-319B,Jharkhand,RO-Ranchi,PIU-Ramgarh,,,0.8
+2677,NH-148A,Haryana,RO-Delhi,PIU-Delhi,,,2.9
+2678,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,no,,8.09
+2679,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,no,,2.43
+2680,NE-1A,Gujarat,RO-Gandhinagar,PIU-Ahmedabad,,,8.800000000000002
+2681,NE-4,Madhya Pradesh,RO-Bhopal,PIU-Ratlam,,,0.1
+2682,NH-516A,Odisha,RO-Bhubaneswar,PIU-Bharampore,no,,56.29
+2683,NH-316A,Odisha,RO-Bhubaneswar,PIU-Bhubaneshwar,,,8.75
+2684,NH-32,Puducherry,RO-Chennai,PIU-Puducherry,,,0.02
+2685,NH-332A,Puducherry,RO-Chennai,PIU-Chengalpattu,,,3.05
+2686,NH-354,Punjab,RO-Chandigarh,PIU-Amritsar,,,14.4
+2687,NH-5,Punjab,RO-Chandigarh,PIU-Ludhiana,no,,5.14
+2688,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,6.1
+2689,NH-152D,Haryana,RO-Delhi,PIU-Bhiwani-DL,,,0.07
+2690,NH-130CD,Andhra Pradesh,RO-Vijayawada,PIU-Vizianagram,yes,N/04018/05005/AP,0.2
+2691,NH-344G,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,1.1
+2692,NH-48,Maharashtra,RO-Mumbai,PIU-Thane,,,3.37
+2693,NH-503A,Punjab,RO-Chandigarh,PIU-Jalandhar,pending,,3.829876
+2694,NH-709,Rajasthan,RO-Jaipur,PIU-Jaipur,0,,60.62
+2695,NH-11,Rajasthan,RO-Jaipur,PIU-Bikaner,no,,25.2
+2696,NH-544D,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Vijayawada,,,15.98
+2697,NH-544D,Andhra Pradesh,RO-Andhra Pradesh,EE NH Division Vijayawada,,,28.5
+2698,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,no,,0.7
+2699,NH-52,Maharashtra,RO-Nagpur,PIU-Dhule,yes,N/04023/07002/MH,0.1
+2700,NH-109,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,3.2
+2701,NH-519,Uttar Pradesh,RO-UP West,PIU-Kanpur,,,27.91
+2702,NH-230,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,17.7
+2703,NH-731,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,32.66
+2704,NH-128,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,13.161290999999999
+2705,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,4.03
+2706,NH-128,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.1
+2707,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,no,,0.4
+2708,NH-709A,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,4.63
+2709,NH-31,Uttar Pradesh,RO-UP East,PIU-Azamgarh,,,8.2
+2710,NH-9,Uttar Pradesh,RO-UP West,PIU-Moradabad,,,15.1
+2711,NH-44,Uttar Pradesh,RO-Jabalpur,PIU-Gwalior,,,0.05
+2712,NE-6,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,0.9
+2713,NH-53,Maharashtra,RO-Maharashtra,NH Division Akola,,,0.46
+2714,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,3.3
+2715,NH-334DD,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,28.4
+2716,NH-135BG,Madhya Pradesh,RO-Jabalpur,PIU-Katni,,,2.15
+2717,NH-135BG,Uttar Pradesh,RO-Jabalpur,PIU-Katni,,,1.56
+2718,NH-344G,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,0.1
+2719,NH-334DD,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,7.05
+2720,NH-44,Uttar Pradesh,RO-UP West,PIU-Jhansi,,,0.1
+2721,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,1.34
+2722,NH-34,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,2.51
+2723,NH-709AD,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,0.1
+2724,NH-24,Uttar Pradesh,RO-UP East,PIU-Gorakhpur,,,0.1
+2725,NH-709,Rajasthan,RO-Jaipur,PIU-Jaipur,,,6.72
+2726,NH-32,Tamil Nadu,RO-Madurai,PIU-Tuticorin,,,50.95
+2727,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,no,,5.51
+2728,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,no,,2.58
+2729,NH-51,Gujarat,RO-Gandhinagar,PIU-Rajkot,no,,2.34
+2730,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.7
+2731,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,no,,0.1
+2732,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.7
+2733,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.3
+2734,NH-81,Tamil Nadu,RO-Chennai,PIU-Viluppuram,no,,16.57
+2735,NH-32,Tamil Nadu,RO-Chennai,PIU-Puducherry,no,,2.85
+2736,NH-716,Tamil Nadu,RO-Chennai,PIU-Chennai2,,,0.1
+2737,NH-163,Telangana,RO-Hyderabad,PIU-Warangal,,,0.14
+2738,NH-83,Tamil Nadu,RO-Madurai,PIU-Dindigul,,,18.02
+2739,NH-146B,Madhya Pradesh,RO-Bhopal,PIU-Bhopal,,,0.2
+2740,NH-163,Telangana,RO-Hyderabad,PIU-Hyderabad,,,17.74
+2741,NH-307,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,3.21
+2742,NH-7,Uttarakhand,RO-Dehradun,PIU-Vasant Vihar,,,8.9
+2743,NH-109,Uttarakhand,RO-Dehradun,PIU-Rudrapur,yes,N/08065/02001/UK,0.3
+2744,NH-119A,Bihar,RO-Patna,PIU-Sasaram,,,1.4
+2745,NH-161AA,Telangana,RO-Hyderabad,PIU-Gajwel,,,9.44
+2746,NH-930,Maharashtra,RO-Nagpur,PIU-Chandrapur,no,,37.38
+2747,NH-319B,Jharkhand,RO-Ranchi,PIU-Ramgarh,,,0.8
+2748,NH-319B,Jharkhand,RO-Ranchi,PIU-Ramgarh,,,0.1
+2749,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,4.2
+2750,NH-309,Uttarakhand,RO-Dehradun,PIU-Rudrapur,no,,17.99
+2751,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,,,37.12
+2752,NH-28,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,5.16
+2753,NH-30,Uttar Pradesh,RO-UP West,PIU-Bareilly,,,2.1
+2754,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/06008/01001/PB,0.1
+2755,NH-30,Uttar Pradesh,RO-UP East,PIU-Prayagraj,,,0.1
+2756,NH-144,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,yes,N/01004/01021/JK,0.3
+2757,NH-144,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,no,,0.46
+2758,NH-754A,Rajasthan,RO-Jaipur,PIU-Hanumangarh,yes,N/04003/10005/RJ,17.1
+2759,NH-30,Uttar Pradesh,RO-UP West,PIU-Bareilly,,,0.3
+2760,NH-230,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,15.76
+2761,NH-230,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,22.25
+2762,NH-230,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,9.29
+2763,NH-21,Uttar Pradesh,RO-UP West,PIU-Agra,,,25.1
+2764,NH-334,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,4.96
+2765,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,no,,0.1
+2766,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.1
+2767,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,yes,N/04041/02002/AP,0.1
+2768,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,yes,N/04041/03002/AP,0.05
+2769,NH-365BG,Telangana,RO-Hyderabad,PIU-Khammam-I,,,0.1
+2770,NH-319B,Jharkhand,RO-Ranchi,PIU-Ramgarh,,,1.5
+2771,NH-365BG,Andhra Pradesh,RO-Vijayawada,PIU-Rajamahendravaram,no,,2.26
+2772,NH-344G,Uttar Pradesh,RO-Delhi,PIU-Baghpat,,,1.2
+2773,NH-31,Uttar Pradesh,RO-UP East,PIU-Varanasi,,,0.1
+2774,NE-6,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,13.64
+2775,NE-6,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,2.49
+2776,NH-53,Maharashtra,RO-Nagpur,PIU-Amravati,no,,1.42
+2777,NH-334DD,Uttar Pradesh,RO-UP West,PIU-Aligarh,,,8.69
+2778,NH-230,Uttar Pradesh,RO-UP West,PIU-Lucknow,,,11.18
+2779,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,no,,2.32
+2780,NH-361,Maharashtra,RO-Nagpur,PIU-Nanded,no,,4.63
+2781,NH-709A,Uttar Pradesh,RO-Delhi,PIU-Meerut,,,1.17
+2782,NH-128,Uttar Pradesh,RO-UP East,PIU-Raebareli,,,0.14
+2783,NH-27,West Bengal,RO-Kolkata,PIU-Jalpaiguri,no,,5.9
+2784,NH-316A,West Bengal,RO-Bhubaneswar,PIU-Bhubaneshwar,,,5.58
+2785,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.2
+2786,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.3
+2787,NH-130A,Chhattisgarh,RO-Raipur,PIU-Bilaspur,,,0.1
+2788,NE-5,Jammu and Kashmir,RO-Jammu,PIU-Jammu,,,8.1
+2789,NH-7,Punjab,RO-Chandigarh,PIU-Bathinda,yes,N/06047/01002/PB,0.1
+2790,NH-375,Karnataka,RO-Bengaluru,PIU Hassan,yes,,48.09
+2791,NH-119A,Bihar,RO-Patna,PIU-Sasaram,,,0.7
+2792,NH-930,Maharashtra,RO-Nagpur,PIU-Chandrapur,no,,2.11
+2793,NH-319B,Jharkhand,RO-Ranchi,PIU-Ramgarh,,,0.13
+2794,NH-563,Telangana,RO-Hyderabad,PIU-Warangal,,,0.1
+2795,NH-144,Jammu and Kashmir,RO-Jammu,PIU-Udhampur,yes,N/01004/01021/JK,0.1
+2796,NH-148B,Rajasthan,RO-Delhi,PIU-Sohna,no,,17.02
+2797,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,yes,N/01001/05005/GJ,0.39
+2798,NE-4,Gujarat,RO-Gandhinagar,PIU-Godhra,,,0.76
+2799,NH-166,Maharashtra,RO-Mumbai,PIU-Kolhapur,,,1.07
+2800,NE-4,Maharashtra,RO-Mumbai,PIU-Thane,,,8.74
+2801,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.2
+2802,NH-544G,Andhra Pradesh,RO-Vijayawada,PIU-Ongole,,,0.1
+2803,Nh-150C,Karnataka,RO-Bengaluru,PIU-Gulbarga,,,0.05
+2804,NH-319B,Bihar,RO-Patna,PIU-Aurangabad_BR,,,0.1
+2805,NH-319B,Bihar,RO-Patna,PIU-Aurangabad_BR,,,0.1
+2806,NH-319B,Jharkhand,RO-Ranchi,PIU-Ramgarh,,,0.23
+2807,NE-5,Haryana,RO-Chandigarh,PIU-Bhiwani-CHD-HR,,,0.1
+2808,NH-152D,Haryana,RO-Delhi,PIU-Bhiwani-DL,,,0.1
+2809,NH-150C,Telangana,RO-Hyderabad,PIU-Mahabubnagar,,,0.02

@@ -1,0 +1,93 @@
+/* You can add global styles to this file, and also import other style files */
+.leaflet-popup-content {
+
+    margin: 10px;
+
+    min-width: 280px;
+
+}
+
+.leaflet-popup-content table{
+
+    font-size:13px;
+
+}
+.leaflet-interactive:focus {
+    outline: none !important;
+}
+
+.leaflet-interactive:focus-visible {
+    outline: none !important;
+}
+.leaflet-control-search ul li {
+    font-family: monospace;
+}
+/* -----------------------------
+   Leaflet Legend
+------------------------------*/
+
+.legend {
+    background: #ffffff;
+    padding: 12px 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.25);
+    border: 1px solid #ccc;
+    min-width: 220px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #333;
+}
+
+.legend h6 {
+    margin: 0 0 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: #0d6efd;
+}
+
+.legend hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+}
+
+.legend div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 6px 0;
+}
+
+.legend-line {
+    display: inline-block;
+    width: 30px;
+    height: 5px;
+    margin-right: 10px;
+    border-radius: 3px;
+    flex-shrink: 0;
+}
+
+.legend-line.yes {
+    background: #28a745;
+}
+
+.legend-line.no {
+    background: #fa2c03;
+}
+
+.legend-line.pending {
+    background: #0d6efd;
+}
+
+.legend-line.unknown {
+    background: #03080d;
+}
+
+.legend b {
+    color: #000;
+}
+
+.legend:hover {
+    box-shadow: 0 4px 15px rgba(0,0,0,0.35);
+}

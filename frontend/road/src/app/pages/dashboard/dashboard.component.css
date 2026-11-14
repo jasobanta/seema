@@ -1,0 +1,11 @@
+.container-fluid{
+    height:100vh;
+}
+
+.row{
+    height:calc(100vh - 60px);
+}
+
+.col-md-9{
+    height:100%;
+}
