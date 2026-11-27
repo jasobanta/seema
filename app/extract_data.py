@@ -21,38 +21,44 @@ def extract_zip_files(zip_path):
 
 zip_path = os.path.join(BASE_DIR, "uploads", "RO Banglore.zip")
 #extract_zip_files(zip_path)
-shp_path = os.path.join(os.curdir,"uploads","RO BANGLORE.shp")
+shp_path = os.path.join(os.curdir,"uploads",'18_Nov_2026_data',"NHAI_No_Project_Mapped_Data.shp")
 sf = shapefile.Reader(shp_path)
 
 cursor = conn.cursor()
 cursor.execute(
-"""CREATE TABLE IF NOT EXISTS road_data
+"""CREATE TABLE IF NOT EXISTS road_data_new
 (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    "NH_Number" TEXT,
-    "Agency" TEXT,
-    "Chainage_S" TEXT,
-    "Chainage_R" TEXT,
-    "Chainage_P" TEXT,
-    "StartLatit" REAL,
-    "StartLongi" REAL,
-    "EndLatitud" REAL,
-    "EndLongitu" REAL,
-    "LengthInKM" REAL,
-    "UID" INTEGER,
-    "Entrusted" TEXT,
-    "UPC" TEXT,
-    "GeometryWKT" TEXT
+    id           INTEGER PRIMARY KEY,
+    NH_Number    TEXT,
+    Agency       TEXT,
+    Chainage_S   TEXT,
+    Chainage_R   TEXT,
+    Chainage_P   TEXT,
+    StartLatit   REAL,
+    StartLongi   REAL,
+    EndLatitud   REAL,
+    EndLongitu   REAL,
+    LengthInKM   REAL,
+    UID          INTEGER,
+    Entrusted    TEXT,
+    UPC          TEXT,
+    GeometryWKT  TEXT,
+    Hide         INTEGER DEFAULT 0,
+    FineUrl      TEXT,
+    Remark       TEXT,
+    FineDriveId  TEXT,
+    FineFolderId TEXT
 )""")
 conn.commit()
 
-
+shp_path = os.path.join(os.curdir,"uploads",'18_Nov_2026_data',"NHAI_No_Project_Mapped_Data.shp")
+sf = shapefile.Reader(shp_path)
 field_names = [f.name for f in sf.fields[1:]]
 
 field_names.append("GeometryWKT")
 
 placeholders = ",".join(["?"] * len(field_names))
-table_name = 'road_data'
+table_name = 'road_data_new'
 insert_sql = f"""
 INSERT INTO "{table_name}"
 ({",".join(field_names)})
@@ -64,26 +70,26 @@ VALUES ({placeholders})
 # -----------------------------
 cursor = conn.cursor()
 
-# count = 0
+count = 0
 
-# for sr in sf.iterShapeRecords():
+for sr in sf.iterShapeRecords():
 
-#     # Attribute values
-#     values = list(sr.record)
+    # Attribute values
+    values = list(sr.record)
 
-#     # Geometry → WKT
-#     geom = shape(sr.shape.__geo_interface__)
+    # Geometry → WKT
+    geom = shape(sr.shape.__geo_interface__)
 
-#     values.append(geom.wkt)
+    values.append(geom.wkt)
     
-#     cursor.execute(insert_sql, values)
+    cursor.execute(insert_sql, values)
 
-#     count += 1
+    count += 1
 
-# conn.commit()
-# conn.close()
+conn.commit()
+conn.close()
 
-# print(f"{count} records imported successfully.")
+print(f"{count} records imported successfully.")
 
 cursor.execute(f'SELECT * FROM "{table_name}"')
 
